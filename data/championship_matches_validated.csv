@@ -1,0 +1,553 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee,Match Report,Notes,Capacity,FillRate
+1.0,Fri,2025-08-08,20:00,Birmingham City,1–1,Ipswich Town,27508.0,St Andrew's @ Knighthead Park,Andrew Kitchen,Match Report,,29409,0.9353599238328403
+1.0,Sat,2025-08-09,12:30,Southampton,2–1,Wrexham,30970.0,St Mary's Stadium,James Bell,Match Report,,32384,0.9563364624505929
+1.0,Sat,2025-08-09,12:30,Coventry City,0–0,Hull City,29052.0,Coventry Building Society Arena,Robert Madley,Match Report,,32609,0.890919684749609
+1.0,Sat,2025-08-09,12:30,Charlton Athletic,1–0,Watford,21778.0,The Valley,Stephen Martin,Match Report,,27111,0.80329017741876
+1.0,Sat,2025-08-09,15:00,Norwich City,1–2,Millwall,26546.0,Carrow Road,Adam Herczeg,Match Report,,27359,0.9702840016082459
+1.0,Sat,2025-08-09,15:00,Middlesbrough,1–0,Swansea City,26035.0,Riverside Stadium,Farai Hallam,Match Report,,34742,0.7493811524955385
+1.0,Sat,2025-08-09,15:00,Stoke City,3–1,Derby County,25746.0,bet365 Stadium,Elliot Bell,Match Report,,30089,0.8556615374389311
+1.0,Sat,2025-08-09,15:00,West Brom,1–0,Blackburn,24653.0,The Hawthorns,David Webb,Match Report,,26850,0.9181750465549349
+1.0,Sat,2025-08-09,15:00,QPR,1–1,Preston,16804.0,MATRADE Loftus Road Stadium,Oliver Langford,Match Report,,18439,0.9113292477900103
+1.0,Sat,2025-08-09,15:00,Oxford United,0–1,Portsmouth,11492.0,The Kassam Stadium,Dean Whitestone,Match Report,,12500,0.91936
+1.0,Sat,2025-08-09,17:30,Sheffield United,1–4,Bristol City,28033.0,Bramall Lane,Joshua Smith,Match Report,,32050,0.8746645865834634
+1.0,Sun,2025-08-10,16:30,Leicester City,2–1,Sheffield Weds,31102.0,King Power Stadium,Matt Donohue,Match Report,,32259,0.9641340401128368
+2.0,Sat,2025-08-16,12:30,Wrexham,2–3,West Brom,10656.0,STōK Racecourse,John Busby,Match Report,,12600,0.8457142857142858
+2.0,Sat,2025-08-16,12:30,Derby County,3–5,Coventry City,30465.0,Pride Park Stadium,Anthony Backhouse,Match Report,,32926,0.9252566360930572
+2.0,Sat,2025-08-16,12:30,Portsmouth,1–2,Norwich City,20382.0,Fratton Park,Stephen Martin,Match Report,,20867,0.9767575597833901
+2.0,Sat,2025-08-16,15:00,Bristol City,0–0,Charlton Athletic,24721.0,Ashton Gate Stadium,Ben Speedie,Match Report,,26462,0.9342075428916937
+2.0,Sat,2025-08-16,15:00,Watford,2–1,QPR,19517.0,Vicarage Road Stadium,Tony Harrington,Match Report,,22200,0.8791441441441441
+2.0,Sat,2025-08-16,15:00,Blackburn,1–2,Birmingham City,19552.0,Ewood Park,Oliver Langford,Match Report,,31367,0.6233302515382408
+2.0,Sat,2025-08-16,15:00,Millwall,0–3,Middlesbrough,18021.0,The Den,Tom Nield,Match Report,,20146,0.8945200039710116
+2.0,Sat,2025-08-16,15:00,Preston,2–1,Leicester City,16797.0,Deepdale Stadium,Gavin Ward,Match Report,,23408,0.7175751879699248
+2.0,Sat,2025-08-16,15:00,Sheffield Weds,0–3,Stoke City,21683.0,Hillsborough Stadium,Lewis Smith,Match Report,,39732,0.5457314003825632
+2.0,Sat,2025-08-16,15:00,Swansea City,1–0,Sheffield United,15816.0,Swansea.com Stadium,Thomas Kirk,Match Report,,21088,0.75
+2.0,Sun,2025-08-17,12:00,Ipswich Town,1–1,Southampton,29128.0,Portman Road Stadium,Robert Madley,Match Report,,30056,0.9691243013042321
+2.0,Sun,2025-08-17,15:00,Hull City,3–2,Oxford United,20667.0,MKM Stadium,Andrew Kitchen,Match Report,,25586,0.8077464238255296
+3.0,Fri,2025-08-22,20:00,Derby County,1–1,Bristol City,27849.0,Pride Park Stadium,David Webb,Match Report,,32926,0.8458057462187937
+3.0,Sat,2025-08-23,12:30,Charlton Athletic,0–1,Leicester City,22183.0,The Valley,Dean Whitestone,Match Report,,27111,0.8182287632326362
+3.0,Sat,2025-08-23,12:30,Hull City,0–3,Blackburn,20518.0,MKM Stadium,Tom Nield,Match Report,,25586,0.8019229266004846
+3.0,Sat,2025-08-23,12:30,Swansea City,1–1,Watford,15543.0,Swansea.com Stadium,Stephen Martin,Match Report,,21088,0.737054248861912
+3.0,Sat,2025-08-23,15:00,Preston,1–0,Ipswich Town,18381.0,Deepdale Stadium,Matt Donohue,Match Report,,23408,0.7852443609022557
+3.0,Sat,2025-08-23,15:00,Norwich City,1–2,Middlesbrough,26381.0,Carrow Road,Leigh Doughty,Match Report,,27359,0.9642530794254176
+3.0,Sat,2025-08-23,15:00,Birmingham City,1–0,Oxford United,27342.0,St Andrew's @ Knighthead Park,Robert Jones,Match Report,,29409,0.9297153932469652
+3.0,Sat,2025-08-23,15:00,Sheffield United,0–1,Millwall,26835.0,Bramall Lane,John Busby,Match Report,,32050,0.8372854914196568
+3.0,Sat,2025-08-23,15:00,Coventry City,7–1,QPR,29015.0,Coventry Building Society Arena,Adam Herczeg,Match Report,,32609,0.8897850286730657
+3.0,Sat,2025-08-23,15:00,West Brom,1–1,Portsmouth,24818.0,The Hawthorns,Elliot Bell,Match Report,,26850,0.9243202979515829
+3.0,Sat,2025-08-23,15:00,Wrexham,2–2,Sheffield Weds,10628.0,STōK Racecourse,Farai Hallam,Match Report,,12600,0.8434920634920635
+3.0,Sat,2025-08-23,15:00,Southampton,1–2,Stoke City,28922.0,St Mary's Stadium,Joshua Smith,Match Report,,32384,0.8930953557312253
+4.0,Fri,2025-08-29,20:00,Leicester City,2–0,Birmingham City,30971.0,King Power Stadium,Joshua Smith,Match Report,,32259,0.9600731578784215
+4.0,Sat,2025-08-30,12:30,QPR,3–1,Charlton Athletic,16875.0,MATRADE Loftus Road Stadium,Andrew Kitchen,Match Report,,18439,0.9151797819838386
+4.0,Sat,2025-08-30,12:30,Middlesbrough,1–0,Sheffield United,26610.0,Riverside Stadium,Lewis Smith,Match Report,,34742,0.7659317252892752
+4.0,Sat,2025-08-30,12:30,Stoke City,0–1,West Brom,25328.0,bet365 Stadium,Matt Donohue,Match Report,,30089,0.8417694173950613
+4.0,Sat,2025-08-30,15:00,Bristol City,4–2,Hull City,21385.0,Ashton Gate Stadium,Gavin Ward,Match Report,,26462,0.8081399743027737
+4.0,Sat,2025-08-30,15:00,Watford,2–2,Southampton,19075.0,Vicarage Road Stadium,Farai Hallam,Match Report,,22200,0.8592342342342343
+4.0,Sat,2025-08-30,15:00,Ipswich Town,2–2,Derby County,29155.0,Portman Road Stadium,Leigh Doughty,Match Report,,30056,0.9700226244343891
+4.0,Sat,2025-08-30,15:00,Portsmouth,1–0,Preston,20226.0,Fratton Park,Tony Harrington,Match Report,,20867,0.9692816408683568
+4.0,Sat,2025-08-30,15:00,Oxford United,2–2,Coventry City,11279.0,The Kassam Stadium,Ruebyn Ricardo,Match Report,,12500,0.90232
+4.0,Sat,2025-08-30,15:00,Sheffield Weds,0–2,Swansea City,19740.0,Hillsborough Stadium,Anthony Backhouse,Match Report,,39732,0.49682875264270615
+4.0,Sat,2025-08-30,15:00,Blackburn,0–2,Norwich City,13580.0,Ewood Park,Ben Speedie,Match Report,,31367,0.43293907609908505
+4.0,Sat,2025-08-30,15:00,Millwall,0–2,Wrexham,17877.0,The Den,Thomas Kirk,Match Report,,20146,0.8873721830636354
+5.0,Fri,2025-09-12,20:00,Ipswich Town,5–0,Sheffield United,28012.0,Portman Road Stadium,Farai Hallam,Match Report,,30056,0.9319936119244078
+5.0,Sat,2025-09-13,12:30,Charlton Athletic,1–1,Millwall,23293.0,The Valley,Robert Madley,Match Report,,27111,0.8591715539817786
+5.0,Sat,2025-09-13,12:30,Oxford United,2–2,Leicester City,11362.0,The Kassam Stadium,Ben Toner,Match Report,,12500,0.90896
+5.0,Sat,2025-09-13,12:30,Preston,2–2,Middlesbrough,19391.0,Deepdale Stadium,Thomas Kirk,Match Report,,23408,0.828392002734108
+5.0,Sat,2025-09-13,15:00,Coventry City,1–1,Norwich City,30547.0,Coventry Building Society Arena,Gavin Ward,Match Report,,32609,0.9367659235180472
+5.0,Sat,2025-09-13,15:00,Sheffield Weds,0–3,Bristol City,20003.0,Hillsborough Stadium,Tom Nield,Match Report,,39732,0.5034481022853116
+5.0,Sat,2025-09-13,15:00,Watford,0–1,Blackburn,17964.0,Vicarage Road Stadium,Dean Whitestone,Match Report,,22200,0.8091891891891891
+5.0,Sat,2025-09-13,15:00,Wrexham,1–3,QPR,10608.0,STōK Racecourse,Ben Speedie,Match Report,,12600,0.8419047619047619
+5.0,Sat,2025-09-13,15:00,Stoke City,1–0,Birmingham City,24676.0,bet365 Stadium,Michael Salisbury,Match Report,,30089,0.8201003689055801
+5.0,Sat,2025-09-13,15:00,Swansea City,2–2,Hull City,15152.0,Swansea.com Stadium,David Webb,Match Report,,21088,0.7185128983308042
+5.0,Sat,2025-09-13,15:00,West Brom,0–1,Derby County,25596.0,The Hawthorns,Ruebyn Ricardo,Match Report,,26850,0.9532960893854748
+5.0,Sun,2025-09-14,12:00,Southampton,0–0,Portsmouth,30889.0,St Mary's Stadium,Matt Donohue,Match Report,,32384,0.9538352272727273
+6.0,Fri,2025-09-19,20:00,Middlesbrough,2–1,West Brom,27803.0,Riverside Stadium,Andrew Kitchen,Match Report,,34742,0.8002705658856715
+6.0,Sat,2025-09-20,12:30,QPR,1–0,Stoke City,16481.0,MATRADE Loftus Road Stadium,Tim Robinson,Match Report,,18439,0.89381202885189
+6.0,Sat,2025-09-20,12:30,Leicester City,0–0,Coventry City,30857.0,King Power Stadium,Oliver Langford,Match Report,,32259,0.9565392603614495
+6.0,Sat,2025-09-20,12:30,Birmingham City,1–0,Swansea City,27441.0,St Andrew's @ Knighthead Park,John Busby,Match Report,,29409,0.93308170968071
+6.0,Sat,2025-09-20,15:00,Sheffield United,0–1,Charlton Athletic,30165.0,Bramall Lane,Ben Toner,Match Report,,32050,0.941185647425897
+6.0,Sat,2025-09-20,15:00,Derby County,0–1,Preston,29143.0,Pride Park Stadium,Lewis Smith,Match Report,,32926,0.8851059952621029
+6.0,Sat,2025-09-20,15:00,Norwich City,2–3,Wrexham,26201.0,Carrow Road,David Webb,Match Report,,27359,0.9576738915896049
+6.0,Sat,2025-09-20,15:00,Portsmouth,0–2,Sheffield Weds,20225.0,Fratton Park,Ruebyn Ricardo,Match Report,,20867,0.9692337183112091
+6.0,Sat,2025-09-20,15:00,Hull City,3–1,Southampton,22085.0,MKM Stadium,Anthony Backhouse,Match Report,,25586,0.8631673571484405
+6.0,Sun,2025-09-21,15:00,Bristol City,1–3,Oxford United,23440.0,Ashton Gate Stadium,John Brooks,Match Report,,26462,0.8857985035144735
+6.0,Mon,2025-09-22,20:00,Millwall,1–0,Watford,14586.0,The Den,Joshua Smith,Match Report,,20146,0.7240146927429763
+7.0,Fri,2025-09-26,20:00,West Brom,1–1,Leicester City,24235.0,The Hawthorns,Stephen Martin,Match Report,,26850,0.9026070763500931
+7.0,Sat,2025-09-27,12:30,Coventry City,3–0,Birmingham City,30585.0,Coventry Building Society Arena,Thomas Kirk,Match Report,,32609,0.9379312459750375
+7.0,Sat,2025-09-27,12:30,Wrexham,1–1,Derby County,10613.0,STōK Racecourse,Tom Nield,Match Report,,12600,0.8423015873015873
+7.0,Sat,2025-09-27,12:30,Swansea City,1–1,Millwall,14942.0,Swansea.com Stadium,Dean Whitestone,Match Report,,21088,0.7085546282245827
+7.0,Sat,2025-09-27,15:00,Southampton,1–1,Middlesbrough,28605.0,St Mary's Stadium,Farai Hallam,Match Report,,32384,0.8833065711462451
+7.0,Sat,2025-09-27,15:00,Stoke City,1–1,Norwich City,25148.0,bet365 Stadium,Elliot Bell,Match Report,,30089,0.835787164744591
+7.0,Sat,2025-09-27,15:00,Charlton Athletic,3–0,Blackburn,19004.0,The Valley,Anthony Backhouse,Match Report,,27111,0.7009700859429752
+7.0,Sat,2025-09-27,15:00,Oxford United,0–1,Sheffield United,11352.0,The Kassam Stadium,Ben Speedie,Match Report,,12500,0.90816
+7.0,Sat,2025-09-27,15:00,Preston,0–0,Bristol City,15295.0,Deepdale Stadium,Robert Madley,Match Report,,23408,0.6534090909090909
+7.0,Sat,2025-09-27,15:00,Ipswich Town,2–1,Portsmouth,29141.0,Portman Road Stadium,Andrew Kitchen,Match Report,,30056,0.9695568272557892
+7.0,Sat,2025-09-27,15:00,Watford,2–1,Hull City,17973.0,Vicarage Road Stadium,Oliver Langford,Match Report,,22200,0.8095945945945946
+7.0,Sat,2025-09-27,15:00,Sheffield Weds,1–1,QPR,20132.0,Hillsborough Stadium,John Brooks,Match Report,,39732,0.5066948555320648
+8.0,Tue,2025-09-30,19:45,Bristol City,1–1,Ipswich Town,23329.0,Ashton Gate Stadium,John Busby,Match Report,,26462,0.8816038092358854
+8.0,Tue,2025-09-30,19:45,Leicester City,1–1,Wrexham,29357.0,King Power Stadium,Elliot Bell,Match Report,,32259,0.9100406088223442
+8.0,Tue,2025-09-30,19:45,Hull City,2–2,Preston,18624.0,MKM Stadium,Joshua Smith,Match Report,,25586,0.7278980692566247
+8.0,Tue,2025-09-30,19:45,Sheffield United,1–2,Southampton,27053.0,Bramall Lane,Adam Herczeg,Match Report,,32050,0.8440873634945398
+8.0,Tue,2025-09-30,19:45,Blackburn,1–2,Swansea City,11013.0,Ewood Park,Leigh Doughty,Match Report,,31367,0.3511014760735805
+8.0,Tue,2025-09-30,19:45,Birmingham City,2–2,Sheffield Weds,27323.0,St Andrew's @ Knighthead Park,Matt Donohue,Match Report,,29409,0.9290693325172567
+8.0,Tue,2025-09-30,19:45,Middlesbrough,0–0,Stoke City,24707.0,Riverside Stadium,David Webb,Match Report,,34742,0.7111565252432215
+8.0,Tue,2025-09-30,20:00,Derby County,1–1,Charlton Athletic,25966.0,Pride Park Stadium,Gavin Ward,Match Report,,32926,0.7886168984996659
+8.0,Wed,2025-10-01,19:45,Portsmouth,2–2,Watford,19646.0,Fratton Park,Ben Toner,Match Report,,20867,0.94148655772272
+8.0,Wed,2025-10-01,19:45,Millwall,0–4,Coventry City,14802.0,The Den,Lewis Smith,Match Report,,20146,0.7347364241040405
+8.0,Wed,2025-10-01,19:45,Norwich City,0–1,West Brom,24640.0,Carrow Road,Samuel Allison,Match Report,,27359,0.9006177126356958
+8.0,Wed,2025-10-01,20:00,QPR,0–0,Oxford United,15470.0,MATRADE Loftus Road Stadium,Ruebyn Ricardo,Match Report,,18439,0.8389825912468138
+9.0,Fri,2025-10-03,20:00,Wrexham,1–1,Birmingham City,10669.0,STōK Racecourse,Robert Madley,Match Report,,12600,0.8467460317460317
+9.0,Sat,2025-10-04,12:30,Sheffield Weds,0–5,Coventry City,22224.0,Hillsborough Stadium,Adam Herczeg,Match Report,,39732,0.559347629115071
+9.0,Sat,2025-10-04,12:30,Blackburn,1–1,Stoke City,14751.0,Ewood Park,Ruebyn Ricardo,Match Report,,31367,0.4702713042369369
+9.0,Sat,2025-10-04,12:30,Hull City,1–0,Sheffield United,21030.0,MKM Stadium,Gavin Ward,Match Report,,25586,0.8219338700852028
+9.0,Sat,2025-10-04,15:00,Millwall,3–0,West Brom,17865.0,The Den,Tim Robinson,Match Report,,20146,0.8867765313213541
+9.0,Sat,2025-10-04,15:00,Bristol City,1–2,QPR,24200.0,Ashton Gate Stadium,Edward Duckworth,Match Report,,26462,0.9145189328093115
+9.0,Sat,2025-10-04,15:00,Watford,2–1,Oxford United,19187.0,Vicarage Road Stadium,Lewis Smith,Match Report,,22200,0.8642792792792793
+9.0,Sat,2025-10-04,15:00,Portsmouth,1–0,Middlesbrough,20397.0,Fratton Park,Anthony Backhouse,Match Report,,20867,0.9774763981406048
+9.0,Sat,2025-10-04,15:00,Preston,2–0,Charlton Athletic,14991.0,Deepdale Stadium,James Linington,Match Report,,23408,0.640422077922078
+9.0,Sat,2025-10-04,15:00,Derby County,1–1,Southampton,29573.0,Pride Park Stadium,Oliver Langford,Match Report,,32926,0.8981655834295086
+9.0,Sat,2025-10-04,15:00,Swansea City,1–3,Leicester City,16601.0,Swansea.com Stadium,David Webb,Match Report,,21088,0.7872249620637329
+9.0,Sun,2025-10-05,12:00,Ipswich Town,3–1,Norwich City,29809.0,Portman Road Stadium,Thomas Kirk,Match Report,,30056,0.9917820069204152
+10.0,Fri,2025-10-17,20:00,Middlesbrough,2–1,Ipswich Town,27805.0,Riverside Stadium,Matt Donohue,Match Report,,34742,0.8003281330953889
+10.0,Sat,2025-10-18,12:30,Southampton,0–0,Swansea City,27256.0,St Mary's Stadium,Joshua Smith,Match Report,,32384,0.8416501976284585
+10.0,Sat,2025-10-18,12:30,Oxford United,1–0,Derby County,11197.0,The Kassam Stadium,Gavin Ward,Match Report,,12500,0.89576
+10.0,Sat,2025-10-18,12:30,QPR,1–2,Millwall,17408.0,MATRADE Loftus Road Stadium,Adam Herczeg,Match Report,,18439,0.9440859048755356
+10.0,Sat,2025-10-18,15:00,Sheffield United,1–0,Watford,27431.0,Bramall Lane,Robert Madley,Match Report,,32050,0.8558814352574103
+10.0,Sat,2025-10-18,15:00,Norwich City,0–1,Bristol City,26249.0,Carrow Road,Tom Nield,Match Report,,27359,0.9594283416791549
+10.0,Sat,2025-10-18,15:00,Coventry City,2–0,Blackburn,29606.0,Coventry Building Society Arena,Samuel Allison,Match Report,,32609,0.9079088595173112
+10.0,Sat,2025-10-18,15:00,Birmingham City,2–3,Hull City,27215.0,St Andrew's @ Knighthead Park,Ruebyn Ricardo,Match Report,,29409,0.9253969873168078
+10.0,Sat,2025-10-18,15:00,Stoke City,1–0,Wrexham,27254.0,bet365 Stadium,Thomas Bramall,Match Report,,30089,0.9057795207550933
+10.0,Sat,2025-10-18,15:00,West Brom,2–1,Preston,24068.0,The Hawthorns,Andrew Kitchen,Match Report,,26850,0.8963873370577281
+10.0,Sat,2025-10-18,15:00,Charlton Athletic,2–1,Sheffield Weds,23009.0,The Valley,Tom Reeves,Match Report,,27111,0.8486961012135296
+10.0,Sat,2025-10-18,19:45,Leicester City,1–1,Portsmouth,30496.0,King Power Stadium,Farai Hallam,Match Report,,32259,0.9453485848910381
+11.0,Tue,2025-10-21,19:45,Preston,0–1,Birmingham City,16857.0,Deepdale Stadium,Lewis Smith,Match Report,,23408,0.7201384142173616
+11.0,Tue,2025-10-21,19:45,Hull City,2–1,Leicester City,20211.0,MKM Stadium,Matt Donohue,Match Report,,25586,0.7899241772844524
+11.0,Tue,2025-10-21,19:45,Ipswich Town,0–3,Charlton Athletic,28006.0,Portman Road Stadium,Farai Hallam,Match Report,,30056,0.9317939845621507
+11.0,Tue,2025-10-21,19:45,Blackburn,1–3,Sheffield United,12104.0,Ewood Park,David Webb,Match Report,,31367,0.3858832531003921
+11.0,Tue,2025-10-21,19:45,Portsmouth,1–2,Coventry City,20321.0,Fratton Park,Gavin Ward,Match Report,,20867,0.9738342837973835
+11.0,Tue,2025-10-21,19:45,Millwall,2–0,Stoke City,13792.0,The Den,James Linington,Match Report,,20146,0.6846024024620272
+11.0,Tue,2025-10-21,19:45,Derby County,1–0,Norwich City,25844.0,Pride Park Stadium,Ben Toner,Match Report,,32926,0.7849116199963555
+11.0,Tue,2025-10-21,20:00,Bristol City,3–1,Southampton,24219.0,Ashton Gate Stadium,Anthony Backhouse,Match Report,,26462,0.9152369435416824
+11.0,Wed,2025-10-22,19:45,Wrexham,1–0,Oxford United,10547.0,STōK Racecourse,Elliot Bell,Match Report,,12600,0.8370634920634921
+11.0,Wed,2025-10-22,19:45,Watford,2–1,West Brom,17308.0,Vicarage Road Stadium,Leigh Doughty,Match Report,,22200,0.7796396396396397
+11.0,Wed,2025-10-22,19:45,Swansea City,0–1,QPR,14254.0,Swansea.com Stadium,John Busby,Match Report,,21088,0.6759294385432474
+11.0,Wed,2025-10-22,20:00,Sheffield Weds,0–1,Middlesbrough,21578.0,Hillsborough Stadium,Thomas Kirk,Match Report,,39732,0.543088694251485
+12.0,Fri,2025-10-24,20:00,Preston,3–2,Sheffield United,16542.0,Deepdale Stadium,Farai Hallam,Match Report,,23408,0.7066814764183186
+12.0,Sat,2025-10-25,12:30,Portsmouth,0–1,Stoke City,20164.0,Fratton Park,Thomas Kirk,Match Report,,20867,0.9663104423252025
+12.0,Sat,2025-10-25,12:30,Ipswich Town,1–0,West Brom,28447.0,Portman Road Stadium,Joshua Smith,Match Report,,30056,0.946466595688049
+12.0,Sat,2025-10-25,12:30,Coventry City,3–1,Watford,30109.0,Coventry Building Society Arena,Dean Whitestone,Match Report,,32609,0.9233340488822104
+12.0,Sat,2025-10-25,15:00,Sheffield Weds,1–2,Oxford United,27261.0,Hillsborough Stadium,Paul Tierney,Match Report,,39732,0.6861220175173663
+12.0,Sat,2025-10-25,15:00,Middlesbrough,1–1,Wrexham,30046.0,Riverside Stadium,Stephen Martin,Match Report,,34742,0.864832191583674
+12.0,Sat,2025-10-25,15:00,Bristol City,1–0,Birmingham City,24923.0,Ashton Gate Stadium,James Linington,Match Report,,26462,0.9418411306779533
+12.0,Sat,2025-10-25,15:00,Swansea City,2–1,Norwich City,14729.0,Swansea.com Stadium,Adam Herczeg,Match Report,,21088,0.6984540971168437
+12.0,Sat,2025-10-25,15:00,Derby County,1–0,QPR,28931.0,Pride Park Stadium,Elliot Bell,Match Report,,32926,0.8786673145842192
+12.0,Sat,2025-10-25,15:00,Hull City,1–1,Charlton Athletic,20804.0,MKM Stadium,Andrew Kitchen,Match Report,,25586,0.8131009145626514
+12.0,Sat,2025-10-25,15:00,Millwall,1–0,Leicester City,18738.0,The Den,James Bell,Match Report,,20146,0.930110195572322
+12.0,Sat,2025-10-25,15:00,Blackburn,2–1,Southampton,13686.0,Ewood Park,Robert Madley,Match Report,,31367,0.4363184238212134
+13.0,Fri,2025-10-31,20:00,Wrexham,3–2,Coventry City,10617.0,STōK Racecourse,Anthony Backhouse,Match Report,,12600,0.8426190476190476
+13.0,Sat,2025-11-01,12:30,Norwich City,0–2,Hull City,25724.0,Carrow Road,Joshua Smith,Match Report,,27359,0.9402390438247012
+13.0,Sat,2025-11-01,12:30,Leicester City,0–2,Blackburn,27925.0,King Power Stadium,Tom Nield,Match Report,,32259,0.8656498961530116
+13.0,Sat,2025-11-01,12:30,West Brom,0–0,Sheffield Weds,23622.0,The Hawthorns,Ben Toner,Match Report,,26850,0.8797765363128491
+13.0,Sat,2025-11-01,15:00,Stoke City,5–1,Bristol City,23241.0,bet365 Stadium,James Bell,Match Report,,30089,0.7724085213865532
+13.0,Sat,2025-11-01,15:00,Southampton,0–2,Preston,27233.0,St Mary's Stadium,Matt Donohue,Match Report,,32384,0.8409399703557312
+13.0,Sat,2025-11-01,15:00,QPR,1–4,Ipswich Town,17505.0,MATRADE Loftus Road Stadium,Samuel Allison,Match Report,,18439,0.9493464938445686
+13.0,Sat,2025-11-01,15:00,Sheffield United,1–3,Derby County,28473.0,Bramall Lane,Michael Salisbury,Match Report,,32050,0.888393135725429
+13.0,Sat,2025-11-01,15:00,Birmingham City,4–0,Portsmouth,27903.0,St Andrew's @ Knighthead Park,Andrew Kitchen,Match Report,,29409,0.9487911863715189
+13.0,Sat,2025-11-01,15:00,Charlton Athletic,1–1,Swansea City,20405.0,The Valley,David Webb,Match Report,,27111,0.7526465272398657
+13.0,Sat,2025-11-01,15:00,Watford,3–0,Middlesbrough,19278.0,Vicarage Road Stadium,John Busby,Match Report,,22200,0.8683783783783784
+13.0,Sat,2025-11-01,15:00,Oxford United,2–2,Millwall,11023.0,The Kassam Stadium,Farai Hallam,Match Report,,12500,0.88184
+14.0,Tue,2025-11-04,19:45,Birmingham City,4–0,Millwall,25408.0,St Andrew's @ Knighthead Park,Gavin Ward,Match Report,,29409,0.8639532116018905
+14.0,Tue,2025-11-04,19:45,Bristol City,0–1,Blackburn,21499.0,Ashton Gate Stadium,Dean Whitestone,Match Report,,26462,0.8124480386969994
+14.0,Tue,2025-11-04,19:45,Leicester City,1–1,Middlesbrough,28389.0,King Power Stadium,Adam Herczeg,Match Report,,32259,0.8800334790291081
+14.0,Tue,2025-11-04,19:45,Oxford United,0–3,Stoke City,10362.0,The Kassam Stadium,Leigh Doughty,Match Report,,12500,0.82896
+14.0,Tue,2025-11-04,19:45,Charlton Athletic,1–0,West Brom,17147.0,The Valley,Lewis Smith,Match Report,,27111,0.6324739035815721
+14.0,Tue,2025-11-04,19:45,Ipswich Town,1–1,Watford,27184.0,Portman Road Stadium,David Webb,Match Report,,30056,0.9044450359329252
+14.0,Tue,2025-11-04,19:45,Derby County,2–1,Hull City,26391.0,Pride Park Stadium,Stephen Martin,Match Report,,32926,0.8015246309907065
+14.0,Tue,2025-11-04,20:00,Coventry City,3–1,Sheffield United,29589.0,Coventry Building Society Arena,James Linington,Match Report,,32609,0.9073875310497101
+14.0,Wed,2025-11-05,19:45,Sheffield Weds,1–1,Norwich City,28156.0,Hillsborough Stadium,Edward Duckworth,Match Report,,39732,0.7086479412060808
+14.0,Wed,2025-11-05,19:45,QPR,1–2,Southampton,16404.0,MATRADE Loftus Road Stadium,James Bell,Match Report,,18439,0.8896360974022453
+14.0,Wed,2025-11-05,19:45,Preston,2–1,Swansea City,15911.0,Deepdale Stadium,Anthony Backhouse,Match Report,,23408,0.6797248803827751
+14.0,Wed,2025-11-05,20:00,Portsmouth,0–0,Wrexham,19877.0,Fratton Park,Robert Madley,Match Report,,20867,0.9525566684238271
+15.0,Fri,2025-11-07,20:00,Watford,1–1,Bristol City,19574.0,Vicarage Road Stadium,Paul Tierney,Match Report,,22200,0.8817117117117117
+15.0,Sat,2025-11-08,12:30,Hull City,3–2,Portsmouth,23205.0,MKM Stadium,Tom Nield,Match Report,,25586,0.9069412960212616
+15.0,Sat,2025-11-08,12:30,Millwall,1–1,Preston,15788.0,The Den,Stephen Martin,Match Report,,20146,0.7836791422614912
+15.0,Sat,2025-11-08,12:30,Blackburn,1–2,Derby County,20147.0,Ewood Park,Thomas Kirk,Match Report,,31367,0.6422992316766027
+15.0,Sat,2025-11-08,15:00,Sheffield United,0–0,QPR,26529.0,Bramall Lane,Lewis Smith,Match Report,,32050,0.8277379095163807
+15.0,Sat,2025-11-08,15:00,West Brom,2–1,Oxford United,22898.0,The Hawthorns,Jacob Miles,Match Report,,26850,0.8528119180633147
+15.0,Sat,2025-11-08,15:00,Middlesbrough,2–1,Birmingham City,26378.0,Riverside Stadium,Samuel Allison,Match Report,,34742,0.7592539289620632
+15.0,Sat,2025-11-08,15:00,Southampton,3–1,Sheffield Weds,27607.0,St Mary's Stadium,Ruebyn Ricardo,Match Report,,32384,0.8524888833992095
+15.0,Sat,2025-11-08,15:00,Wrexham,1–0,Charlton Athletic,11873.0,STōK Racecourse,Leigh Doughty,Match Report,,12600,0.9423015873015873
+15.0,Sat,2025-11-08,15:00,Stoke City,0–1,Coventry City,27421.0,bet365 Stadium,John Busby,Match Report,,30089,0.9113297218252517
+15.0,Sat,2025-11-08,15:00,Swansea City,1–4,Ipswich Town,16783.0,Swansea.com Stadium,Edward Duckworth,Match Report,,21088,0.7958554628224582
+15.0,Sat,2025-11-08,15:00,Norwich City,1–2,Leicester City,26213.0,Carrow Road,Dean Whitestone,Match Report,,27359,0.9581125041119924
+16.0,Fri,2025-11-21,20:00,Preston,1–2,Blackburn,21635.0,Deepdale Stadium,Paul Tierney,Match Report,,23408,0.9242566643882434
+16.0,Sat,2025-11-22,12:30,Charlton Athletic,1–5,Southampton,22708.0,The Valley,Stephen Martin,Match Report,,27111,0.8375935966950684
+16.0,Sat,2025-11-22,12:30,Coventry City,3–2,West Brom,29216.0,Coventry Building Society Arena,Andrew Kitchen,Match Report,,32609,0.895948971142936
+16.0,Sat,2025-11-22,12:30,Bristol City,3–0,Swansea City,23842.0,Ashton Gate Stadium,Joshua Smith,Match Report,,26462,0.900990099009901
+16.0,Sat,2025-11-22,15:00,Ipswich Town,0–0,Wrexham,29147.0,Portman Road Stadium,Dean Whitestone,Match Report,,30056,0.9697564546180463
+16.0,Sat,2025-11-22,15:00,QPR,3–2,Hull City,16587.0,MATRADE Loftus Road Stadium,James Linington,Match Report,,18439,0.8995607137046477
+16.0,Sat,2025-11-22,15:00,Leicester City,2–1,Stoke City,29897.0,King Power Stadium,Matt Donohue,Match Report,,32259,0.9267801233764221
+16.0,Sat,2025-11-22,15:00,Portsmouth,3–1,Millwall,20423.0,Fratton Park,Michael Salisbury,Match Report,,20867,0.9787223846264437
+16.0,Sat,2025-11-22,15:00,Oxford United,1–1,Middlesbrough,11138.0,The Kassam Stadium,Ben Toner,Match Report,,12500,0.89104
+16.0,Sat,2025-11-22,15:00,Birmingham City,4–1,Norwich City,28080.0,St Andrew's @ Knighthead Park,Anthony Backhouse,Match Report,,29409,0.9548097521166989
+16.0,Sat,2025-11-22,15:00,Derby County,2–3,Watford,29442.0,Pride Park Stadium,Gavin Ward,Match Report,,32926,0.8941869647087408
+16.0,Sun,2025-11-23,12:00,Sheffield Weds,0–3,Sheffield United,32740.0,Hillsborough Stadium,David Webb,Match Report,,39732,0.82402094030001
+17.0,Tue,2025-11-25,19:45,Middlesbrough,2–4,Coventry City,26726.0,Riverside Stadium,Matt Donohue,Match Report,,34742,0.7692706234528812
+17.0,Tue,2025-11-25,19:45,Norwich City,1–1,Oxford United,24922.0,Carrow Road,Tom Reeves,Match Report,,27359,0.9109251069118023
+17.0,Tue,2025-11-25,19:45,Swansea City,1–2,Derby County,14251.0,Swansea.com Stadium,Andrew Kitchen,Match Report,,21088,0.6757871775417299
+17.0,Tue,2025-11-25,19:45,Watford,1–1,Preston,16113.0,Vicarage Road Stadium,James Bell,Match Report,,22200,0.7258108108108108
+17.0,Tue,2025-11-25,19:45,Hull City,0–2,Ipswich Town,21271.0,MKM Stadium,Lewis Smith,Match Report,,25586,0.8313530837176581
+17.0,Tue,2025-11-25,19:45,Stoke City,3–0,Charlton Athletic,21105.0,bet365 Stadium,Tom Nield,Match Report,,30089,0.7014191232676393
+17.0,Tue,2025-11-25,20:00,Southampton,3–0,Leicester City,25921.0,St Mary's Stadium,Gavin Ward,Match Report,,32384,0.8004261363636364
+17.0,Wed,2025-11-26,19:45,Wrexham,2–0,Bristol City,10450.0,STōK Racecourse,Ruebyn Ricardo,Match Report,,12600,0.8293650793650794
+17.0,Wed,2025-11-26,19:45,Sheffield United,3–0,Portsmouth,25785.0,Bramall Lane,Leigh Doughty,Match Report,,32050,0.8045241809672387
+17.0,Wed,2025-11-26,19:45,Blackburn,0–1,QPR,12460.0,Ewood Park,Adam Herczeg,Match Report,,31367,0.39723276054452133
+17.0,Wed,2025-11-26,19:45,Millwall,1–0,Sheffield Weds,13958.0,The Den,Jacob Miles,Match Report,,20146,0.6928422515635858
+17.0,Wed,2025-11-26,20:00,West Brom,1–1,Birmingham City,24282.0,The Hawthorns,Thomas Kirk,Match Report,,26850,0.9043575418994413
+18.0,Fri,2025-11-28,20:00,Oxford United,2–1,Ipswich Town,11307.0,The Kassam Stadium,Matt Donohue,Match Report,,12500,0.90456
+18.0,Sat,2025-11-29,12:30,Portsmouth,0–1,Bristol City,20388.0,Fratton Park,Samuel Allison,Match Report,,20867,0.9770450951262759
+18.0,Sat,2025-11-29,12:30,Stoke City,1–2,Hull City,22331.0,bet365 Stadium,Joshua Smith,Match Report,,30089,0.7421649107647313
+18.0,Sat,2025-11-29,12:30,Leicester City,2–3,Sheffield United,28834.0,King Power Stadium,Anthony Backhouse,Match Report,,32259,0.8938280789857094
+18.0,Sat,2025-11-29,15:00,Middlesbrough,2–1,Derby County,25402.0,Riverside Stadium,James Linington,Match Report,,34742,0.7311611306199989
+18.0,Sat,2025-11-29,15:00,Millwall,3–2,Southampton,18732.0,The Den,Ben Toner,Match Report,,20146,0.9298123697011814
+18.0,Sat,2025-11-29,15:00,Sheffield Weds,2–3,Preston,22652.0,Hillsborough Stadium,Oliver Langford,Match Report,,39732,0.5701198026779423
+18.0,Sat,2025-11-29,15:00,Coventry City,3–1,Charlton Athletic,31141.0,Coventry Building Society Arena,David Webb,Match Report,,32609,0.954981753503634
+18.0,Sat,2025-11-29,15:00,Norwich City,3–1,QPR,25571.0,Carrow Road,Lewis Smith,Match Report,,27359,0.9346467341642604
+18.0,Sat,2025-11-29,15:00,West Brom,3–2,Swansea City,22200.0,The Hawthorns,Tom Nield,Match Report,,26850,0.8268156424581006
+18.0,Sat,2025-11-29,15:00,Wrexham,1–1,Blackburn,10643.0,STōK Racecourse,Tom Reeves,Match Report,,12600,0.8446825396825397
+18.0,Mon,2025-12-01,20:00,Birmingham City,2–1,Watford,26086.0,St Andrew's @ Knighthead Park,Adam Herczeg,Match Report,,29409,0.8870073786935972
+6.0,Tue,2025-12-02,19:45,Blackburn,1–1,Ipswich Town,13142.0,Ewood Park,Oliver Langford,Match Report,,31367,0.4189753562661396
+19.0,Fri,2025-12-05,20:15,Hull City,1–4,Middlesbrough,21105.0,MKM Stadium,Dean Whitestone,Match Report,,25586,0.8248651606347221
+19.0,Sat,2025-12-06,12:30,Watford,3–2,Norwich City,18871.0,Vicarage Road Stadium,Tom Nield,Match Report,,22200,0.8500450450450451
+19.0,Sat,2025-12-06,12:30,Derby County,1–3,Leicester City,30784.0,Pride Park Stadium,Joshua Smith,Match Report,,32926,0.9349450282451558
+19.0,Sat,2025-12-06,15:00,QPR,3–1,West Brom,16745.0,MATRADE Loftus Road Stadium,Gavin Ward,Match Report,,18439,0.908129508107815
+19.0,Sat,2025-12-06,15:00,Sheffield United,4–0,Stoke City,28044.0,Bramall Lane,Stephen Martin,Match Report,,32050,0.8750078003120125
+19.0,Sat,2025-12-06,15:00,Preston,1–1,Wrexham,17842.0,Deepdale Stadium,Lewis Smith,Match Report,,23408,0.7622180451127819
+19.0,Sat,2025-12-06,15:00,Ipswich Town,3–0,Coventry City,29025.0,Portman Road Stadium,Paul Tierney,Match Report,,30056,0.9656973649188182
+19.0,Sat,2025-12-06,15:00,Southampton,3–1,Birmingham City,29309.0,St Mary's Stadium,David Webb,Match Report,,32384,0.9050457015810277
+19.0,Sat,2025-12-06,15:00,Bristol City,0–1,Millwall,22587.0,Ashton Gate Stadium,Edward Duckworth,Match Report,,26462,0.8535636006348727
+19.0,Sat,2025-12-06,15:00,Swansea City,2–0,Oxford United,17318.0,Swansea.com Stadium,Anthony Backhouse,Match Report,,21088,0.8212253414264037
+20.0,Tue,2025-12-09,19:45,Southampton,3–2,West Brom,26865.0,St Mary's Stadium,Samuel Allison,Match Report,,32384,0.8295763339920948
+20.0,Tue,2025-12-09,19:45,Blackburn,1–1,Oxford United,10255.0,Ewood Park,Leigh Doughty,Match Report,,31367,0.326935951796474
+20.0,Tue,2025-12-09,19:45,Charlton Athletic,1–2,Middlesbrough,17258.0,The Valley,Oliver Langford,Match Report,,27111,0.6365681826564863
+20.0,Tue,2025-12-09,19:45,Preston,1–1,Coventry City,18477.0,Deepdale Stadium,Ben Toner,Match Report,,23408,0.7893455228981545
+20.0,Tue,2025-12-09,19:45,Swansea City,1–0,Portsmouth,18163.0,Swansea.com Stadium,Tom Reeves,Match Report,,21088,0.8612955235204856
+20.0,Tue,2025-12-09,19:45,Watford,1–1,Sheffield Weds,16834.0,Vicarage Road Stadium,Dean Whitestone,Match Report,,22200,0.7582882882882883
+20.0,Tue,2025-12-09,19:45,Sheffield United,1–1,Norwich City,25577.0,Bramall Lane,Joshua Smith,Match Report,,32050,0.7980343213728549
+20.0,Tue,2025-12-09,20:00,QPR,2–1,Birmingham City,14947.0,MATRADE Loftus Road Stadium,James Bell,Match Report,,18439,0.810618797114811
+20.0,Wed,2025-12-10,19:45,Derby County,1–1,Millwall,24424.0,Pride Park Stadium,Thomas Kirk,Match Report,,32926,0.7417846079086436
+20.0,Wed,2025-12-10,19:45,Ipswich Town,1–0,Stoke City,27008.0,Portman Road Stadium,Adam Herczeg,Match Report,,30056,0.898589299973383
+20.0,Wed,2025-12-10,19:45,Bristol City,2–2,Leicester City,21397.0,Ashton Gate Stadium,James Linington,Match Report,,26462,0.8085934547653238
+20.0,Wed,2025-12-10,20:00,Hull City,2–0,Wrexham,19464.0,MKM Stadium,Andrew Kitchen,Match Report,,25586,0.7607285234112405
+21.0,Fri,2025-12-12,20:00,West Brom,2–0,Sheffield United,22217.0,The Hawthorns,Matt Donohue,Match Report,,26850,0.8274487895716947
+21.0,Sat,2025-12-13,12:30,Norwich City,2–1,Southampton,25627.0,Carrow Road,James Bell,Match Report,,27359,0.9366935926020687
+21.0,Sat,2025-12-13,12:30,Oxford United,1–2,Preston,10379.0,The Kassam Stadium,James Linington,Match Report,,12500,0.83032
+21.0,Sat,2025-12-13,12:30,Stoke City,2–1,Swansea City,23089.0,bet365 Stadium,Ruebyn Ricardo,Match Report,,30089,0.7673568413706006
+21.0,Sat,2025-12-13,15:00,Millwall,1–3,Hull City,16419.0,The Den,Gavin Ward,Match Report,,20146,0.8150004963764519
+21.0,Sat,2025-12-13,15:00,Portsmouth,2–1,Blackburn,19652.0,Fratton Park,Tim Robinson,Match Report,,20867,0.941774093065606
+21.0,Sat,2025-12-13,15:00,Coventry City,1–0,Bristol City,29505.0,Coventry Building Society Arena,Stephen Martin,Match Report,,32609,0.9048115550921525
+21.0,Sat,2025-12-13,15:00,Leicester City,3–1,Ipswich Town,28942.0,King Power Stadium,Thomas Kirk,Match Report,,32259,0.897175981896525
+21.0,Sat,2025-12-13,15:00,Middlesbrough,3–1,QPR,24055.0,Riverside Stadium,David Webb,Match Report,,34742,0.692389614875367
+21.0,Sat,2025-12-13,15:00,Birmingham City,1–1,Charlton Athletic,26822.0,St Andrew's @ Knighthead Park,Andrew Kitchen,Match Report,,29409,0.91203373117073
+21.0,Sat,2025-12-13,15:00,Wrexham,2–2,Watford,10667.0,STōK Racecourse,Jacob Miles,Match Report,,12600,0.8465873015873016
+21.0,Mon,2025-12-15,20:00,Sheffield Weds,0–3,Derby County,23466.0,Hillsborough Stadium,Lewis Smith,Match Report,,39732,0.5906070673512533
+22.0,Fri,2025-12-19,20:00,Swansea City,2–1,Wrexham,20368.0,Swansea.com Stadium,Oliver Langford,Match Report,,21088,0.9658573596358119
+22.0,Sat,2025-12-20,12:30,Preston,1–1,Norwich City,14831.0,Deepdale Stadium,Stephen Martin,Match Report,,23408,0.6335868079289132
+22.0,Sat,2025-12-20,12:30,Southampton,1–1,Coventry City,30584.0,St Mary's Stadium,Adam Herczeg,Match Report,,32384,0.9444169960474308
+22.0,Sat,2025-12-20,12:30,Blackburn,2–0,Millwall,11657.0,Ewood Park,Samuel Allison,Match Report,,31367,0.37163260751745464
+22.0,Sat,2025-12-20,15:00,QPR,4–1,Leicester City,17500.0,MATRADE Loftus Road Stadium,Tom Nield,Match Report,,18439,0.9490753294647215
+22.0,Sat,2025-12-20,15:00,Ipswich Town,3–1,Sheffield Weds,28680.0,Portman Road Stadium,David Webb,Match Report,,30056,0.9542187915890338
+22.0,Sat,2025-12-20,15:00,Watford,1–0,Stoke City,19285.0,Vicarage Road Stadium,Ben Toner,Match Report,,22200,0.8686936936936936
+22.0,Sat,2025-12-20,15:00,Sheffield United,3–0,Birmingham City,28271.0,Bramall Lane,Simon Hooper,Match Report,,32050,0.8820904836193447
+22.0,Sat,2025-12-20,15:00,Charlton Athletic,1–0,Oxford United,19594.0,The Valley,Elliot Bell,Match Report,,27111,0.7227324702150418
+22.0,Sat,2025-12-20,15:00,Hull City,1–0,West Brom,21218.0,MKM Stadium,Ruebyn Ricardo,Match Report,,25586,0.8292816383959978
+22.0,Sat,2025-12-20,15:00,Bristol City,2–0,Middlesbrough,24259.0,Ashton Gate Stadium,Anthony Backhouse,Match Report,,26462,0.916748545083516
+22.0,Sat,2025-12-20,15:00,Derby County,1–1,Portsmouth,28877.0,Pride Park Stadium,Farai Hallam,Match Report,,32926,0.8770272732794752
+23.0,Fri,2025-12-26,12:30,Birmingham City,1–1,Derby County,28082.0,St Andrew's @ Knighthead Park,Ben Toner,Match Report,,29409,0.9548777585092999
+23.0,Fri,2025-12-26,13:00,Millwall,0–0,Ipswich Town,18843.0,The Den,Tim Robinson,Match Report,,20146,0.9353221483172838
+23.0,Fri,2025-12-26,15:00,Stoke City,0–0,Preston,26314.0,bet365 Stadium,Thomas Kirk,Match Report,,30089,0.8745388680248596
+23.0,Fri,2025-12-26,15:00,Leicester City,1–2,Watford,30485.0,King Power Stadium,Joshua Smith,Match Report,,32259,0.9450075947797514
+23.0,Fri,2025-12-26,15:00,Sheffield Weds,2–2,Hull City,27929.0,Hillsborough Stadium,Stephen Martin,Match Report,,39732,0.7029346622369879
+23.0,Fri,2025-12-26,15:00,Middlesbrough,0–0,Blackburn,31475.0,Riverside Stadium,James Bell,Match Report,,34742,0.905963962926717
+23.0,Fri,2025-12-26,15:00,Oxford United,2–1,Southampton,11500.0,The Kassam Stadium,Leigh Doughty,Match Report,,12500,0.92
+23.0,Fri,2025-12-26,15:00,Coventry City,1–0,Swansea City,30139.0,Coventry Building Society Arena,Samuel Allison,Match Report,,32609,0.9242540402956239
+23.0,Fri,2025-12-26,15:00,Portsmouth,1–1,QPR,20449.0,Fratton Park,James Linington,Match Report,,20867,0.9799683711122825
+23.0,Fri,2025-12-26,15:00,West Brom,1–2,Bristol City,25050.0,The Hawthorns,Will Finnie,Match Report,,26850,0.9329608938547486
+23.0,Fri,2025-12-26,15:00,Norwich City,1–0,Charlton Athletic,26594.0,Carrow Road,Matt Donohue,Match Report,,27359,0.972038451697796
+23.0,Fri,2025-12-26,17:30,Wrexham,5–3,Sheffield United,10611.0,STōK Racecourse,Andrew Kitchen,Match Report,,12600,0.8421428571428572
+24.0,Mon,2025-12-29,18:00,Coventry City,0–2,Ipswich Town,31213.0,Coventry Building Society Arena,Anthony Backhouse,Match Report,,32609,0.9571897328958263
+24.0,Mon,2025-12-29,19:45,Norwich City,0–1,Watford,26553.0,Carrow Road,Matthew Corlett,Match Report,,27359,0.970539858912972
+24.0,Mon,2025-12-29,19:45,West Brom,2–1,QPR,23485.0,The Hawthorns,Lewis Smith,Match Report,,26850,0.8746741154562384
+24.0,Mon,2025-12-29,19:45,Wrexham,2–1,Preston,10616.0,STōK Racecourse,Ruebyn Ricardo,Match Report,,12600,0.8425396825396826
+24.0,Mon,2025-12-29,19:45,Middlesbrough,0–1,Hull City,31421.0,Riverside Stadium,Leigh Doughty,Match Report,,34742,0.9044096482643487
+24.0,Mon,2025-12-29,19:45,Portsmouth,2–1,Charlton Athletic,20401.0,Fratton Park,Paul Tierney,Match Report,,20867,0.9776680883691954
+24.0,Mon,2025-12-29,19:45,Leicester City,2–1,Derby County,31354.0,King Power Stadium,Gavin Ward,Match Report,,32259,0.9719458135714064
+24.0,Mon,2025-12-29,19:45,Oxford United,0–1,Swansea City,11413.0,The Kassam Stadium,Adam Herczeg,Match Report,,12500,0.91304
+24.0,Mon,2025-12-29,19:45,Sheffield Weds,0–0,Blackburn,22532.0,Hillsborough Stadium,Oliver Langford,Match Report,,39732,0.5670995670995671
+24.0,Mon,2025-12-29,19:45,Millwall,2–1,Bristol City,18077.0,The Den,David Webb,Match Report,,20146,0.8972997121016579
+24.0,Mon,2025-12-29,19:45,Stoke City,1–2,Sheffield United,24206.0,bet365 Stadium,John Busby,Match Report,,30089,0.8044800425404633
+24.0,Mon,2025-12-29,20:15,Birmingham City,1–1,Southampton,27942.0,St Andrew's @ Knighthead Park,Matt Donohue,Match Report,,29409,0.9501173110272365
+25.0,Thu,2026-01-01,12:30,Blackburn,0–2,Wrexham,16494.0,Ewood Park,Thomas Kirk,Match Report,,31367,0.5258392578187266
+25.0,Thu,2026-01-01,15:00,Preston,3–0,Sheffield Weds,18069.0,Deepdale Stadium,Gavin Ward,Match Report,,23408,0.7719155844155844
+25.0,Thu,2026-01-01,15:00,Hull City,0–1,Stoke City,23152.0,MKM Stadium,Craig Pawson,Match Report,,25586,0.9048698506996014
+25.0,Thu,2026-01-01,15:00,Bristol City,5–0,Portsmouth,24649.0,Ashton Gate Stadium,James Bell,Match Report,,26462,0.9314866601163934
+25.0,Thu,2026-01-01,15:00,Watford,3–0,Birmingham City,20816.0,Vicarage Road Stadium,Lewis Smith,Match Report,,22200,0.9376576576576576
+25.0,Thu,2026-01-01,15:00,Charlton Athletic,1–1,Coventry City,20789.0,The Valley,Joshua Smith,Match Report,,27111,0.7668105197152447
+25.0,Thu,2026-01-01,15:00,Swansea City,1–0,West Brom,17416.0,Swansea.com Stadium,James Linington,Match Report,,21088,0.8258725341426404
+25.0,Thu,2026-01-01,15:00,Southampton,0–0,Millwall,30182.0,St Mary's Stadium,Tom Nield,Match Report,,32384,0.9320034584980237
+25.0,Thu,2026-01-01,15:00,Ipswich Town,2–1,Oxford United,28199.0,Portman Road Stadium,Will Finnie,Match Report,,30056,0.9382153313814213
+25.0,Thu,2026-01-01,15:00,Derby County,1–0,Middlesbrough,30266.0,Pride Park Stadium,Ruebyn Ricardo,Match Report,,32926,0.9192127801737229
+25.0,Thu,2026-01-01,15:00,QPR,1–2,Norwich City,17452.0,MATRADE Loftus Road Stadium,Dean Whitestone,Match Report,,18439,0.9464721514181897
+25.0,Thu,2026-01-01,17:30,Sheffield United,3–1,Leicester City,29644.0,Bramall Lane,Farai Hallam,Match Report,,32050,0.9249297971918877
+26.0,Sun,2026-01-04,12:00,Birmingham City,3–2,Coventry City,27932.0,St Andrew's @ Knighthead Park,James Linington,Match Report,,29409,0.949777279064232
+26.0,Sun,2026-01-04,12:00,QPR,3–0,Sheffield Weds,16327.0,MATRADE Loftus Road Stadium,Samuel Allison,Match Report,,18439,0.8854601659526005
+26.0,Sun,2026-01-04,15:00,Millwall,2–1,Swansea City,14242.0,The Den,John Busby,Match Report,,20146,0.7069393427975776
+26.0,Sun,2026-01-04,15:00,Middlesbrough,4–0,Southampton,26077.0,Riverside Stadium,Oliver Langford,Match Report,,34742,0.7505900638996028
+26.0,Sun,2026-01-04,15:00,Blackburn,2–2,Charlton Athletic,11367.0,Ewood Park,David Webb,Match Report,,31367,0.3623872222399337
+26.0,Sun,2026-01-04,15:00,Norwich City,0–2,Stoke City,25656.0,Carrow Road,Farai Hallam,Match Report,,27359,0.9377535728645053
+26.0,Sun,2026-01-04,15:00,Derby County,1–2,Wrexham,29939.0,Pride Park Stadium,Matthew Corlett,Match Report,,32926,0.9092814189394399
+26.0,Sun,2026-01-04,15:00,Bristol City,0–2,Preston,22409.0,Ashton Gate Stadium,Paul Tierney,Match Report,,26462,0.8468369737737133
+26.0,Mon,2026-01-05,20:00,Leicester City,2–1,West Brom,27130.0,King Power Stadium,Stephen Martin,Match Report,,32259,0.8410056108372858
+27.0,Fri,2026-01-16,20:00,West Brom,2–3,Middlesbrough,23568.0,The Hawthorns,Joshua Smith,Match Report,,26850,0.8777653631284916
+27.0,Sat,2026-01-17,12:30,Watford,0–2,Millwall,19074.0,Vicarage Road Stadium,Ruebyn Ricardo,Match Report,,22200,0.8591891891891892
+27.0,Sat,2026-01-17,12:30,Coventry City,2–1,Leicester City,31410.0,Coventry Building Society Arena,Lewis Smith,Match Report,,32609,0.9632310098439081
+27.0,Sat,2026-01-17,12:30,Ipswich Town,3–0,Blackburn,26715.0,Portman Road Stadium,Andrew Kitchen,Match Report,,30056,0.888840830449827
+27.0,Sat,2026-01-17,15:00,Charlton Athletic,1–0,Sheffield United,19647.0,The Valley,Oliver Langford,Match Report,,27111,0.7246873962598207
+27.0,Sat,2026-01-17,15:00,Sheffield Weds,0–1,Portsmouth,21351.0,Hillsborough Stadium,John Busby,Match Report,,39732,0.5373754152823921
+27.0,Sat,2026-01-17,15:00,Preston,0–1,Derby County,17641.0,Deepdale Stadium,Farai Hallam,Match Report,,23408,0.7536312371838687
+27.0,Sat,2026-01-17,15:00,Oxford United,0–0,Bristol City,11160.0,The Kassam Stadium,Tim Robinson,Match Report,,12500,0.8928
+27.0,Sat,2026-01-17,15:00,Southampton,1–2,Hull City,27117.0,St Mary's Stadium,Samuel Allison,Match Report,,32384,0.8373579545454546
+27.0,Sat,2026-01-17,15:00,Wrexham,1–2,Norwich City,10650.0,STōK Racecourse,Will Finnie,Match Report,,12600,0.8452380952380952
+27.0,Sat,2026-01-17,15:00,Stoke City,0–0,QPR,22045.0,bet365 Stadium,Matt Donohue,Match Report,,30089,0.732659775997873
+27.0,Sat,2026-01-17,17:30,Swansea City,1–1,Birmingham City,16753.0,Swansea.com Stadium,Tom Nield,Match Report,,21088,0.7944328528072838
+28.0,Tue,2026-01-20,19:45,Charlton Athletic,1–2,Derby County,16266.0,The Valley,James Linington,Match Report,,27111,0.5999778687617572
+28.0,Tue,2026-01-20,19:45,West Brom,0–5,Norwich City,21031.0,The Hawthorns,James Bell,Match Report,,26850,0.7832774674115456
+28.0,Tue,2026-01-20,19:45,Sheffield Weds,0–2,Birmingham City,22396.0,Hillsborough Stadium,Leigh Doughty,Match Report,,39732,0.5636766334440753
+28.0,Tue,2026-01-20,19:45,Oxford United,0–0,QPR,10478.0,The Kassam Stadium,Will Finnie,Match Report,,12500,0.83824
+28.0,Tue,2026-01-20,19:45,Ipswich Town,2–0,Bristol City,25539.0,Portman Road Stadium,Dean Whitestone,Match Report,,30056,0.8497138674474315
+28.0,Tue,2026-01-20,19:45,Preston,0–3,Hull City,14174.0,Deepdale Stadium,Stephen Martin,Match Report,,23408,0.6055194805194806
+28.0,Tue,2026-01-20,19:45,Swansea City,3–1,Blackburn,13897.0,Swansea.com Stadium,Anthony Backhouse,Match Report,,21088,0.6590003793626708
+28.0,Tue,2026-01-20,19:45,Coventry City,2–1,Millwall,28605.0,Coventry Building Society Arena,Andrew Kitchen,Match Report,,32609,0.8772118126897482
+28.0,Tue,2026-01-20,20:00,Wrexham,1–1,Leicester City,10609.0,STōK Racecourse,Matt Donohue,Match Report,,12600,0.841984126984127
+28.0,Wed,2026-01-21,19:45,Southampton,1–0,Sheffield United,24357.0,St Mary's Stadium,Thomas Kirk,Match Report,,32384,0.7521306818181818
+28.0,Wed,2026-01-21,19:45,Watford,1–1,Portsmouth,17577.0,Vicarage Road Stadium,Ben Toner,Match Report,,22200,0.7917567567567567
+28.0,Wed,2026-01-21,20:00,Stoke City,1–2,Middlesbrough,20992.0,bet365 Stadium,Adam Herczeg,Match Report,,30089,0.6976635979926219
+29.0,Fri,2026-01-23,20:00,Derby County,1–1,West Brom,20099.0,Pride Park Stadium,Anthony Backhouse,Match Report,,32926,0.6104294478527608
+29.0,Sat,2026-01-24,12:30,Millwall,4–0,Charlton Athletic,19004.0,The Den,Gavin Ward,Match Report,,20146,0.9433138091928919
+29.0,Sat,2026-01-24,12:30,Middlesbrough,4–0,Preston,25723.0,Riverside Stadium,Andy Madley,Match Report,,34742,0.7404006677796328
+29.0,Sat,2026-01-24,15:00,Blackburn,1–1,Watford,11640.0,Ewood Park,Adam Herczeg,Match Report,,31367,0.3710906366563586
+29.0,Sat,2026-01-24,15:00,Hull City,2–1,Swansea City,21912.0,MKM Stadium,Joshua Smith,Match Report,,25586,0.8564058469475494
+29.0,Sat,2026-01-24,15:00,QPR,2–3,Wrexham,17502.0,MATRADE Loftus Road Stadium,Oliver Langford,Match Report,,18439,0.9491837952166603
+29.0,Sat,2026-01-24,15:00,Bristol City,2–0,Sheffield Weds,23418.0,Ashton Gate Stadium,Ben Speedie,Match Report,,26462,0.8849671226664652
+29.0,Sat,2026-01-24,15:00,Leicester City,1–2,Oxford United,30479.0,King Power Stadium,James Linington,Match Report,,32259,0.944821600173595
+29.0,Sat,2026-01-24,15:00,Birmingham City,1–1,Stoke City,27904.0,St Andrew's @ Knighthead Park,James Bell,Match Report,,29409,0.9488251895678194
+29.0,Sat,2026-01-24,15:00,Sheffield United,3–1,Ipswich Town,28638.0,Bramall Lane,Tom Nield,Match Report,,32050,0.8935413416536662
+29.0,Sun,2026-01-25,12:00,Portsmouth,1–1,Southampton,20290.0,Fratton Park,Lewis Smith,Match Report,,20867,0.9723486845258063
+29.0,Mon,2026-01-26,20:00,Norwich City,2–1,Coventry City,25452.0,Carrow Road,Thomas Kirk,Match Report,,27359,0.9302971599839175
+30.0,Fri,2026-01-30,20:00,Bristol City,0–5,Derby County,23512.0,Ashton Gate Stadium,Tom Nield,Match Report,,26462,0.888519386289774
+30.0,Sat,2026-01-31,12:30,Leicester City,0–2,Charlton Athletic,28730.0,King Power Stadium,Andrew Kitchen,Match Report,,32259,0.8906041724789981
+30.0,Sat,2026-01-31,12:30,Sheffield Weds,0–1,Wrexham,23297.0,Hillsborough Stadium,David Webb,Match Report,,39732,0.5863535689117084
+30.0,Sat,2026-01-31,12:30,Stoke City,0–2,Southampton,23529.0,bet365 Stadium,Farai Hallam,Match Report,,30089,0.7819801256273057
+30.0,Sat,2026-01-31,15:00,Ipswich Town,1–1,Preston,27549.0,Portman Road Stadium,John Busby,Match Report,,30056,0.9165890338035667
+30.0,Sat,2026-01-31,15:00,Portsmouth,3–0,West Brom,20413.0,Fratton Park,Matt Donohue,Match Report,,20867,0.9782431590549672
+30.0,Sat,2026-01-31,15:00,Oxford United,0–2,Birmingham City,11509.0,The Kassam Stadium,Stephen Martin,Match Report,,12500,0.92072
+30.0,Sat,2026-01-31,15:00,Blackburn,0–1,Hull City,13769.0,Ewood Park,Thomas Bramall,Match Report,,31367,0.43896451684891763
+30.0,Sat,2026-01-31,15:00,Watford,0–2,Swansea City,18691.0,Vicarage Road Stadium,Matthew Corlett,Match Report,,22200,0.8419369369369369
+30.0,Sat,2026-01-31,15:00,Millwall,1–1,Sheffield United,18007.0,The Den,Lewis Smith,Match Report,,20146,0.89382507693835
+30.0,Sat,2026-01-31,15:00,QPR,2–1,Coventry City,17321.0,MATRADE Loftus Road Stadium,Joshua Smith,Match Report,,18439,0.9393676446661966
+30.0,Sat,2026-01-31,15:00,Middlesbrough,1–0,Norwich City,28616.0,Riverside Stadium,Ben Toner,Match Report,,34742,0.8236716366357723
+19.0,Tue,2026-02-03,19:45,Blackburn,1–0,Sheffield Weds,12590.0,Ewood Park,Dean Whitestone,Match Report,,31367,0.40137724359996174
+26.0,Tue,2026-02-03,19:45,Sheffield United,3–1,Oxford United,26436.0,Bramall Lane,Anthony Backhouse,Match Report,,32050,0.824836193447738
+26.0,Tue,2026-02-03,19:45,Hull City,0–0,Watford,20441.0,MKM Stadium,Leigh Doughty,Match Report,,25586,0.7989134683029782
+31.0,Fri,2026-02-06,20:01,Charlton Athletic,0–0,QPR,21290.0,The Valley,Tom Nield,Match Report,,27111,0.7852901036479658
+31.0,Sat,2026-02-07,12:31,Southampton,1–0,Watford,27721.0,St Mary's Stadium,Elliot Bell,Match Report,,32384,0.8560091403162056
+31.0,Sat,2026-02-07,12:31,Norwich City,2–0,Blackburn,25628.0,Carrow Road,James Linington,Match Report,,27359,0.936730143645601
+31.0,Sat,2026-02-07,12:31,Derby County,1–2,Ipswich Town,29498.0,Pride Park Stadium,Joshua Smith,Match Report,,32926,0.8958877482840308
+31.0,Sat,2026-02-07,15:01,Wrexham,0–2,Millwall,10663.0,STōK Racecourse,Tim Robinson,Match Report,,12600,0.8462698412698413
+31.0,Sat,2026-02-07,15:01,Birmingham City,2–1,Leicester City,27886.0,St Andrew's @ Knighthead Park,John Busby,Match Report,,29409,0.9482131320344113
+31.0,Sat,2026-02-07,15:01,West Brom,0–0,Stoke City,23462.0,The Hawthorns,David Webb,Match Report,,26850,0.8738175046554935
+31.0,Sat,2026-02-07,15:01,Coventry City,0–0,Oxford United,30218.0,Coventry Building Society Arena,Ruebyn Ricardo,Match Report,,32609,0.9266766843509461
+31.0,Sat,2026-02-07,15:01,Preston,1–0,Portsmouth,16034.0,Deepdale Stadium,Adam Herczeg,Match Report,,23408,0.6849794941900205
+31.0,Sat,2026-02-07,15:01,Hull City,2–3,Bristol City,20848.0,MKM Stadium,Oliver Langford,Match Report,,25586,0.8148206050183694
+31.0,Sun,2026-02-08,12:01,Swansea City,4–0,Sheffield Weds,16776.0,Swansea.com Stadium,Thomas Kirk,Match Report,,21088,0.7955235204855842
+31.0,Mon,2026-02-09,20:01,Sheffield United,1–2,Middlesbrough,27764.0,Bramall Lane,Gavin Ward,Match Report,,32050,0.8662714508580344
+32.0,Tue,2026-02-10,19:45,Leicester City,3–4,Southampton,25827.0,King Power Stadium,Ben Toner,Match Report,,32259,0.8006137822003162
+32.0,Tue,2026-02-10,19:45,Oxford United,0–3,Norwich City,10211.0,The Kassam Stadium,Samuel Allison,Match Report,,12500,0.81688
+32.0,Tue,2026-02-10,20:00,Birmingham City,0–0,West Brom,27307.0,St Andrew's @ Knighthead Park,Adam Herczeg,Match Report,,29409,0.9285252813764494
+32.0,Wed,2026-02-11,19:45,Charlton Athletic,1–0,Stoke City,14836.0,The Valley,Anthony Backhouse,Match Report,,27111,0.5472317509497989
+32.0,Sat,2026-02-14,15:00,Preston,2–2,Watford,14611.0,Deepdale Stadium,Dean Whitestone,Match Report,,23408,0.6241883116883117
+32.0,Sat,2026-02-14,15:00,Derby County,2–0,Swansea City,27841.0,Pride Park Stadium,Andrew Kitchen,Match Report,,32926,0.8455627771366093
+32.0,Sat,2026-02-14,15:00,QPR,1–3,Blackburn,16607.0,MATRADE Loftus Road Stadium,Stephen Martin,Match Report,,18439,0.900645371224036
+32.0,Sat,2026-02-14,15:00,Sheffield Weds,1–2,Millwall,22488.0,Hillsborough Stadium,Edward Duckworth,Match Report,,39732,0.5659921473874963
+32.0,Sat,2026-02-14,15:00,Portsmouth,0–1,Sheffield United,20092.0,Fratton Park,James Linington,Match Report,,20867,0.9628600182105718
+32.0,Mon,2026-02-16,20:00,Coventry City,3–1,Middlesbrough,30908.0,Coventry Building Society Arena,Thomas Bramall,Match Report,,32609,0.947836486859456
+19.0,Tue,2026-02-17,19:45,Charlton Athletic,1–3,Portsmouth,18713.0,The Valley,Leigh Doughty,Match Report,,27111,0.690236435395227
+32.0,Tue,2026-02-17,19:45,Bristol City,2–2,Wrexham,22915.0,Ashton Gate Stadium,Ruebyn Ricardo,Match Report,,26462,0.865958733277908
+33.0,Fri,2026-02-20,20:00,Blackburn,1–0,Preston,19792.0,Ewood Park,Anthony Backhouse,Match Report,,31367,0.6309816048713616
+33.0,Sat,2026-02-21,12:30,West Brom,0–2,Coventry City,23479.0,The Hawthorns,James Linington,Match Report,,26850,0.8744506517690875
+33.0,Sat,2026-02-21,12:30,Hull City,1–3,QPR,21928.0,MKM Stadium,Andy Madley,Match Report,,25586,0.8570311889314469
+33.0,Sat,2026-02-21,12:30,Swansea City,1–0,Bristol City,18009.0,Swansea.com Stadium,Will Finnie,Match Report,,21088,0.8539927921092565
+33.0,Sat,2026-02-21,12:30,Stoke City,2–2,Leicester City,23997.0,bet365 Stadium,Gavin Ward,Match Report,,30089,0.7975339825185284
+33.0,Sat,2026-02-21,15:00,Wrexham,5–3,Ipswich Town,10610.0,STōK Racecourse,Leigh Doughty,Match Report,,12600,0.8420634920634921
+33.0,Sat,2026-02-21,15:00,Southampton,1–1,Charlton Athletic,29476.0,St Mary's Stadium,John Busby,Match Report,,32384,0.9102025691699605
+33.0,Sat,2026-02-21,15:00,Norwich City,1–2,Birmingham City,26537.0,Carrow Road,Farai Hallam,Match Report,,27359,0.9699550422164552
+33.0,Sat,2026-02-21,15:00,Watford,2–0,Derby County,19211.0,Vicarage Road Stadium,David Webb,Match Report,,22200,0.8653603603603603
+33.0,Sat,2026-02-21,15:00,Middlesbrough,0–0,Oxford United,28918.0,Riverside Stadium,Oliver Langford,Match Report,,34742,0.8323642853030914
+33.0,Sat,2026-02-21,15:00,Millwall,1–3,Portsmouth,19153.0,The Den,Stephen Martin,Match Report,,20146,0.9507098183262186
+33.0,Sun,2026-02-22,12:00,Sheffield United,2–1,Sheffield Weds,30457.0,Bramall Lane,Joshua Smith,Match Report,,32050,0.9502964118564743
+34.0,Tue,2026-02-24,19:45,Swansea City,1–1,Preston,20233.0,Swansea.com Stadium,David Webb,Match Report,,21088,0.9594556145675266
+34.0,Tue,2026-02-24,19:45,Hull City,4–2,Derby County,20391.0,MKM Stadium,Adam Herczeg,Match Report,,25586,0.7969592746032986
+34.0,Tue,2026-02-24,19:45,Watford,0–2,Ipswich Town,18249.0,Vicarage Road Stadium,Ben Toner,Match Report,,22200,0.822027027027027
+34.0,Tue,2026-02-24,19:45,Wrexham,2–1,Portsmouth,10499.0,STōK Racecourse,Tom Reeves,Match Report,,12600,0.8332539682539682
+34.0,Tue,2026-02-24,19:45,West Brom,1–1,Charlton Athletic,20847.0,The Hawthorns,Samuel Allison,Match Report,,26850,0.7764245810055866
+34.0,Tue,2026-02-24,19:45,Blackburn,1–2,Bristol City,10999.0,Ewood Park,Matt Donohue,Match Report,,31367,0.35065514712914847
+34.0,Tue,2026-02-24,19:45,Middlesbrough,1–1,Leicester City,26019.0,Riverside Stadium,Andrew Kitchen,Match Report,,34742,0.7489206148177998
+34.0,Tue,2026-02-24,20:00,Southampton,5–0,QPR,26422.0,St Mary's Stadium,Oliver Langford,Match Report,,32384,0.8158967391304348
+34.0,Wed,2026-02-25,19:45,Millwall,3–0,Birmingham City,16636.0,The Den,Dean Whitestone,Match Report,,20146,0.8257718653827062
+34.0,Wed,2026-02-25,19:45,Sheffield United,1–2,Coventry City,27696.0,Bramall Lane,John Busby,Match Report,,32050,0.8641497659906396
+34.0,Wed,2026-02-25,19:45,Norwich City,2–0,Sheffield Weds,25141.0,Carrow Road,Ruebyn Ricardo,Match Report,,27359,0.9189297854453745
+34.0,Wed,2026-02-25,20:00,Stoke City,2–1,Oxford United,20153.0,bet365 Stadium,James Linington,Match Report,,30089,0.669779653694041
+35.0,Fri,2026-02-27,20:00,Bristol City,1–2,Watford,21866.0,Ashton Gate Stadium,Lewis Smith,Match Report,,26462,0.8263169828433224
+35.0,Sat,2026-02-28,12:30,Leicester City,0–2,Norwich City,29136.0,King Power Stadium,Adam Herczeg,Match Report,,32259,0.9031898074955826
+35.0,Sat,2026-02-28,12:30,Derby County,3–1,Blackburn,27831.0,Pride Park Stadium,Leigh Doughty,Match Report,,32926,0.845259065783879
+35.0,Sat,2026-02-28,12:30,Portsmouth,0–1,Hull City,20228.0,Fratton Park,Samuel Allison,Match Report,,20867,0.969377485982652
+35.0,Sat,2026-02-28,15:00,Ipswich Town,3–0,Swansea City,27594.0,Portman Road Stadium,Anthony Backhouse,Match Report,,30056,0.918086239020495
+35.0,Sat,2026-02-28,15:00,Oxford United,2–1,West Brom,11054.0,The Kassam Stadium,Matthew Corlett,Match Report,,12500,0.88432
+35.0,Sat,2026-02-28,15:00,Sheffield Weds,1–3,Southampton,23850.0,Hillsborough Stadium,Gavin Ward,Match Report,,39732,0.6002718212020538
+35.0,Sat,2026-02-28,15:00,Charlton Athletic,0–1,Wrexham,21844.0,The Valley,Farai Hallam,Match Report,,27111,0.8057246136254657
+35.0,Sat,2026-02-28,15:00,Preston,0–2,Millwall,15489.0,Deepdale Stadium,Ben Toner,Match Report,,23408,0.6616968557758032
+35.0,Sat,2026-02-28,15:00,Coventry City,2–1,Stoke City,31516.0,Coventry Building Society Arena,Andrew Kitchen,Match Report,,32609,0.9664816461713024
+35.0,Sat,2026-02-28,15:00,QPR,0–2,Sheffield United,17376.0,MATRADE Loftus Road Stadium,Tom Nield,Match Report,,18439,0.9423504528445144
+35.0,Mon,2026-03-02,20:00,Birmingham City,1–3,Middlesbrough,26918.0,St Andrew's @ Knighthead Park,Thomas Kirk,Match Report,,29409,0.9152980380155734
+32.0,Tue,2026-03-03,19:45,Ipswich Town,1–0,Hull City,26103.0,Portman Road Stadium,Lewis Smith,Match Report,,30056,0.8684788394996007
+36.0,Fri,2026-03-06,20:00,Preston,1–3,Oxford United,14009.0,Deepdale Stadium,Andrew Kitchen,Match Report,,23408,0.5984706083390294
+36.0,Sat,2026-03-07,12:30,Blackburn,1–1,Portsmouth,14100.0,Ewood Park,Tom Nield,Match Report,,31367,0.44951700832084673
+36.0,Sat,2026-03-07,12:30,Hull City,1–3,Millwall,21504.0,MKM Stadium,David Webb,Match Report,,25586,0.8404596263581646
+36.0,Sat,2026-03-07,15:00,Bristol City,0–2,Coventry City,23492.0,Ashton Gate Stadium,Matt Donohue,Match Report,,26462,0.8877635855188573
+36.0,Sat,2026-03-07,15:00,Charlton Athletic,1–0,Birmingham City,18541.0,The Valley,Samuel Allison,Match Report,,27111,0.6838921470989635
+36.0,Sat,2026-03-07,15:00,Swansea City,2–0,Stoke City,16147.0,Swansea.com Stadium,Ruebyn Ricardo,Match Report,,21088,0.7656961305007587
+36.0,Sat,2026-03-07,15:00,Derby County,2–1,Sheffield Weds,30937.0,Pride Park Stadium,Oliver Langford,Match Report,,32926,0.9395918119419304
+36.0,Sat,2026-03-07,15:00,Ipswich Town,1–1,Leicester City,28709.0,Portman Road Stadium,John Busby,Match Report,,30056,0.9551836571732766
+36.0,Sat,2026-03-07,15:00,Sheffield United,1–1,West Brom,28307.0,Bramall Lane,Dean Whitestone,Match Report,,32050,0.8832137285491419
+36.0,Sun,2026-03-08,16:30,QPR,0–4,Middlesbrough,15940.0,MATRADE Loftus Road Stadium,Joshua Smith,Match Report,,18439,0.8644720429524377
+37.0,Tue,2026-03-10,19:45,Wrexham,1–2,Hull City,10502.0,STōK Racecourse,Stephen Martin,Match Report,,12600,0.8334920634920635
+37.0,Tue,2026-03-10,19:45,Leicester City,2–0,Bristol City,25476.0,King Power Stadium,Tom Nield,Match Report,,32259,0.7897330977401655
+37.0,Tue,2026-03-10,19:45,Millwall,1–0,Derby County,15939.0,The Den,Matt Donohue,Match Report,,20146,0.7911744266851981
+37.0,Tue,2026-03-10,19:45,Sheffield Weds,1–1,Watford,19653.0,Hillsborough Stadium,Elliot Bell,Match Report,,39732,0.4946390818483842
+37.0,Tue,2026-03-10,19:45,Portsmouth,1–2,Swansea City,18508.0,Fratton Park,Gavin Ward,Match Report,,20867,0.8869506876886951
+37.0,Tue,2026-03-10,20:00,Stoke City,3–3,Ipswich Town,22330.0,bet365 Stadium,Thomas Kirk,Match Report,,30089,0.7421316760277843
+37.0,Wed,2026-03-11,19:45,Norwich City,2–1,Sheffield United,25503.0,Carrow Road,Ben Toner,Match Report,,27359,0.9321612632040644
+37.0,Wed,2026-03-11,19:45,Oxford United,1–0,Blackburn,9993.0,The Kassam Stadium,David Webb,Match Report,,12500,0.79944
+37.0,Wed,2026-03-11,19:45,Middlesbrough,0–1,Charlton Athletic,24668.0,Riverside Stadium,Adam Herczeg,Match Report,,34742,0.7100339646537333
+37.0,Wed,2026-03-11,19:45,Birmingham City,1–0,QPR,25212.0,St Andrew's @ Knighthead Park,Anthony Backhouse,Match Report,,29409,0.8572885851270019
+37.0,Wed,2026-03-11,19:45,West Brom,1–1,Southampton,22127.0,The Hawthorns,Ben Speedie,Match Report,,26850,0.824096834264432
+37.0,Wed,2026-03-11,20:00,Coventry City,3–0,Preston,27835.0,Coventry Building Society Arena,Lewis Smith,Match Report,,32609,0.8535986997454691
+38.0,Fri,2026-03-13,20:00,Wrexham,2–0,Swansea City,10641.0,STōK Racecourse,Tom Nield,Match Report,,12600,0.8445238095238096
+38.0,Sat,2026-03-14,12:30,Coventry City,1–2,Southampton,31281.0,Coventry Building Society Arena,Farai Hallam,Match Report,,32609,0.9592750467662302
+38.0,Sat,2026-03-14,12:30,Middlesbrough,1–1,Bristol City,34988.0,Riverside Stadium,Stephen Martin,Match Report,,34742,1.0070807667952335
+38.0,Sat,2026-03-14,12:30,Oxford United,1–1,Charlton Athletic,11325.0,The Kassam Stadium,Matt Donohue,Match Report,,12500,0.906
+38.0,Sat,2026-03-14,15:00,Birmingham City,1–1,Sheffield United,27588.0,St Andrew's @ Knighthead Park,Tim Robinson,Match Report,,29409,0.9380801795368765
+38.0,Sat,2026-03-14,15:00,Millwall,1–2,Blackburn,17802.0,The Den,Andrew Kitchen,Match Report,,20146,0.8836493596743771
+38.0,Sat,2026-03-14,15:00,Norwich City,2–0,Preston,25285.0,Carrow Road,Gavin Ward,Match Report,,27359,0.9241931357140246
+38.0,Sat,2026-03-14,15:00,Leicester City,1–3,QPR,27494.0,King Power Stadium,Dean Whitestone,Match Report,,32259,0.8522892836107753
+38.0,Sat,2026-03-14,15:00,West Brom,3–0,Hull City,23245.0,The Hawthorns,Joshua Smith,Match Report,,26850,0.8657355679702048
+38.0,Sat,2026-03-14,15:00,Sheffield Weds,0–2,Ipswich Town,23437.0,Hillsborough Stadium,Tom Reeves,Match Report,,39732,0.5898771770864795
+38.0,Sat,2026-03-14,15:00,Stoke City,3–1,Watford,22085.0,bet365 Stadium,Leigh Doughty,Match Report,,30089,0.7339891654757552
+38.0,Mon,2026-03-16,20:00,Portsmouth,0–1,Derby County,19253.0,Fratton Park,Anthony Backhouse,Match Report,,20867,0.9226529927636938
+36.0,Tue,2026-03-17,19:45,Watford,3–1,Wrexham,16378.0,Vicarage Road Stadium,Adam Herczeg,Match Report,,22200,0.7377477477477478
+36.0,Wed,2026-03-18,19:45,Southampton,1–0,Norwich City,26605.0,St Mary's Stadium,Lewis Smith,Match Report,,32384,0.8215476778656127
+39.0,Fri,2026-03-20,20:00,Preston,3–1,Stoke City,16604.0,Deepdale Stadium,Farai Hallam,Match Report,,23408,0.7093301435406698
+39.0,Sat,2026-03-21,12:30,Ipswich Town,1–1,Millwall,29129.0,Portman Road Stadium,Michael Salisbury,Match Report,,30056,0.969157572531275
+39.0,Sat,2026-03-21,12:30,Blackburn,0–0,Middlesbrough,18959.0,Ewood Park,Oliver Langford,Match Report,,31367,0.6044250326776549
+39.0,Sat,2026-03-21,12:30,Derby County,1–0,Birmingham City,29928.0,Pride Park Stadium,Gavin Ward,Match Report,,32926,0.9089473364514365
+39.0,Sat,2026-03-21,15:00,Southampton,2–0,Oxford United,30428.0,St Mary's Stadium,Ben Toner,Match Report,,32384,0.9395998023715415
+39.0,Sat,2026-03-21,15:00,Bristol City,0–1,West Brom,23659.0,Ashton Gate Stadium,Thomas Kirk,Match Report,,26462,0.8940745219560124
+39.0,Sat,2026-03-21,15:00,Sheffield United,1–2,Wrexham,27997.0,Bramall Lane,Samuel Allison,Match Report,,32050,0.8735413416536661
+39.0,Sat,2026-03-21,15:00,Watford,0–0,Leicester City,19493.0,Vicarage Road Stadium,Joshua Smith,Match Report,,22200,0.878063063063063
+39.0,Sat,2026-03-21,15:00,Hull City,3–1,Sheffield Weds,22004.0,MKM Stadium,Dean Whitestone,Match Report,,25586,0.8600015633549597
+39.0,Sat,2026-03-21,15:00,QPR,6–1,Portsmouth,16962.0,MATRADE Loftus Road Stadium,John Busby,Match Report,,18439,0.9198980421931775
+39.0,Sat,2026-03-21,15:00,Charlton Athletic,0–1,Norwich City,23008.0,The Valley,Will Finnie,Match Report,,27111,0.8486592158164583
+39.0,Sat,2026-03-21,17:15,Swansea City,0–3,Coventry City,17732.0,Swansea.com Stadium,Stephen Martin,Match Report,,21088,0.8408573596358119
+40.0,Fri,2026-04-03,12:30,Middlesbrough,1–2,Millwall,32100.0,Riverside Stadium,Anthony Backhouse,Match Report,,34742,0.9239537159633873
+40.0,Fri,2026-04-03,15:00,QPR,2–1,Watford,17532.0,MATRADE Loftus Road Stadium,Ruebyn Ricardo,Match Report,,18439,0.9508107814957427
+40.0,Fri,2026-04-03,15:00,West Brom,2–2,Wrexham,25927.0,The Hawthorns,Robert Madley,Match Report,,26850,0.9656238361266294
+40.0,Fri,2026-04-03,15:00,Stoke City,2–0,Sheffield Weds,25450.0,bet365 Stadium,Michael Salisbury,Match Report,,30089,0.8458240553026023
+40.0,Fri,2026-04-03,15:00,Charlton Athletic,1–2,Bristol City,20925.0,The Valley,Ben Toner,Match Report,,27111,0.7718269337169414
+40.0,Fri,2026-04-03,15:00,Oxford United,1–1,Hull City,11477.0,The Kassam Stadium,Oliver Langford,Match Report,,12500,0.91816
+40.0,Fri,2026-04-03,15:00,Sheffield United,3–3,Swansea City,26457.0,Bramall Lane,Dean Whitestone,Match Report,,32050,0.8254914196567863
+40.0,Fri,2026-04-03,15:00,Birmingham City,0–1,Blackburn,27842.0,St Andrew's @ Knighthead Park,John Busby,Match Report,,29409,0.9467169913971913
+40.0,Fri,2026-04-03,15:00,Leicester City,2–2,Preston,28797.0,King Power Stadium,Ben Speedie,Match Report,,32259,0.8926811122477448
+40.0,Fri,2026-04-03,15:00,Norwich City,1–1,Portsmouth,26613.0,Carrow Road,Stephen Martin,Match Report,,27359,0.9727329215249095
+40.0,Fri,2026-04-03,20:00,Coventry City,3–2,Derby County,31349.0,Coventry Building Society Arena,Tom Nield,Match Report,,32609,0.9613603606366341
+41.0,Mon,2026-04-06,12:30,Portsmouth,2–2,Oxford United,20356.0,Fratton Park,Joshua Smith,Match Report,,20867,0.9755115732975511
+41.0,Mon,2026-04-06,13:00,Millwall,1–2,Norwich City,18855.0,The Den,Samuel Allison,Match Report,,20146,0.9359178000595652
+41.0,Mon,2026-04-06,15:00,Blackburn,0–0,West Brom,21581.0,Ewood Park,Robert Jones,Match Report,,31367,0.6880160678419995
+41.0,Mon,2026-04-06,15:00,Ipswich Town,2–1,Birmingham City,29381.0,Portman Road Stadium,Adam Herczeg,Match Report,,30056,0.977541921746074
+41.0,Mon,2026-04-06,15:00,Bristol City,1–0,Sheffield United,21858.0,Ashton Gate Stadium,Lewis Smith,Match Report,,26462,0.8260146625349558
+41.0,Mon,2026-04-06,15:00,Preston,1–1,QPR,15046.0,Deepdale Stadium,Thomas Kirk,Match Report,,23408,0.6427717019822283
+41.0,Mon,2026-04-06,15:00,Watford,1–1,Charlton Athletic,19961.0,Vicarage Road Stadium,Andrew Kitchen,Match Report,,22200,0.8991441441441441
+41.0,Mon,2026-04-06,15:00,Derby County,2–0,Stoke City,31095.0,Pride Park Stadium,Elliot Bell,Match Report,,32926,0.9443904513150702
+41.0,Mon,2026-04-06,15:00,Sheffield Weds,1–1,Leicester City,24223.0,Hillsborough Stadium,Oliver Langford,Match Report,,39732,0.6096597201248364
+41.0,Mon,2026-04-06,17:30,Swansea City,2–2,Middlesbrough,18168.0,Swansea.com Stadium,Matt Donohue,Match Report,,21088,0.8615326251896813
+41.0,Mon,2026-04-06,20:00,Hull City,0–0,Coventry City,22507.0,MKM Stadium,David Webb,Match Report,,25586,0.8796607519737356
+41.0,Tue,2026-04-07,20:00,Wrexham,1–5,Southampton,10547.0,STōK Racecourse,Gavin Ward,Match Report,,12600,0.8370634920634921
+42.0,Fri,2026-04-10,20:00,West Brom,0–0,Millwall,23447.0,The Hawthorns,Lewis Smith,Match Report,,26850,0.8732588454376163
+42.0,Sat,2026-04-11,12:30,Coventry City,0–0,Sheffield Weds,31647.0,Coventry Building Society Arena,Matt Donohue,Match Report,,32609,0.9704989420098745
+42.0,Sat,2026-04-11,12:30,Norwich City,0–2,Ipswich Town,26826.0,Carrow Road,Anthony Backhouse,Match Report,,27359,0.9805182937972879
+42.0,Sat,2026-04-11,12:30,QPR,0–0,Bristol City,16745.0,MATRADE Loftus Road Stadium,Edward Duckworth,Match Report,,18439,0.908129508107815
+42.0,Sat,2026-04-11,15:00,Middlesbrough,0–1,Portsmouth,27017.0,Riverside Stadium,Thomas Kirk,Match Report,,34742,0.7776466524667549
+42.0,Sat,2026-04-11,15:00,Southampton,2–1,Derby County,31206.0,St Mary's Stadium,Andrew Kitchen,Match Report,,32384,0.9636240118577075
+42.0,Sat,2026-04-11,15:00,Charlton Athletic,1–2,Preston,18902.0,The Valley,John Busby,Match Report,,27111,0.6972077754417026
+42.0,Sat,2026-04-11,15:00,Sheffield United,2–1,Hull City,27850.0,Bramall Lane,John Brooks,Match Report,,32050,0.8689547581903276
+42.0,Sat,2026-04-11,15:00,Stoke City,1–1,Blackburn,22718.0,bet365 Stadium,Robert Madley,Match Report,,30089,0.7550267539632424
+42.0,Sat,2026-04-11,15:00,Oxford United,2–0,Watford,11223.0,The Kassam Stadium,Stephen Martin,Match Report,,12500,0.89784
+42.0,Sat,2026-04-11,15:00,Leicester City,0–1,Swansea City,27386.0,King Power Stadium,Samuel Allison,Match Report,,32259,0.8489413806999597
+42.0,Sun,2026-04-12,12:00,Birmingham City,2–0,Wrexham,28054.0,St Andrew's @ Knighthead Park,David Webb,Match Report,,29409,0.9539256690128872
+26.0,Tue,2026-04-14,20:00,Portsmouth,2–0,Ipswich Town,20251.0,Fratton Park,Farai Hallam,Match Report,,20867,0.9704797047970479
+45.0,Tue,2026-04-14,20:00,Southampton,3–0,Blackburn,25571.0,St Mary's Stadium,Joshua Smith,Match Report,,32384,0.7896183300395256
+43.0,Fri,2026-04-17,20:00,Blackburn,1–1,Coventry City,19657.0,Ewood Park,Lewis Smith,Match Report,,31367,0.6266777186214811
+43.0,Sat,2026-04-18,12:30,Portsmouth,1–0,Leicester City,20344.0,Fratton Park,Gavin Ward,Match Report,,20867,0.9749365026117793
+43.0,Sat,2026-04-18,12:30,Millwall,2–0,QPR,18934.0,The Den,Tom Nield,Match Report,,20146,0.9398391740295841
+43.0,Sat,2026-04-18,12:30,Derby County,1–0,Oxford United,29281.0,Pride Park Stadium,Samuel Allison,Match Report,,32926,0.889297211929782
+43.0,Sat,2026-04-18,15:00,Sheffield Weds,1–1,Charlton Athletic,23538.0,Hillsborough Stadium,Thomas Parsons,Match Report,,39732,0.5924192086982785
+43.0,Sat,2026-04-18,15:00,Swansea City,1–2,Southampton,17776.0,Swansea.com Stadium,Oliver Langford,Match Report,,21088,0.8429438543247344
+43.0,Sat,2026-04-18,15:00,Watford,0–2,Sheffield United,18495.0,Vicarage Road Stadium,John Busby,Match Report,,22200,0.8331081081081081
+43.0,Sat,2026-04-18,15:00,Hull City,1–1,Birmingham City,22706.0,MKM Stadium,Stephen Martin,Match Report,,25586,0.8874384428984601
+43.0,Sat,2026-04-18,15:00,Wrexham,2–0,Stoke City,10633.0,STōK Racecourse,Adam Herczeg,Match Report,,12600,0.8438888888888889
+43.0,Sat,2026-04-18,15:00,Preston,0–2,West Brom,17996.0,Deepdale Stadium,Joshua Smith,Match Report,,23408,0.768796992481203
+43.0,Sat,2026-04-18,15:00,Bristol City,2–4,Norwich City,23149.0,Ashton Gate Stadium,Ruebyn Ricardo,Match Report,,26462,0.8748016022976344
+43.0,Sun,2026-04-19,12:00,Ipswich Town,2–2,Middlesbrough,29684.0,Portman Road Stadium,Jarred Gillett,Match Report,,30056,0.9876231035400586
+44.0,Tue,2026-04-21,19:45,Oxford United,0–1,Wrexham,11128.0,The Kassam Stadium,Matt Donohue,Match Report,,12500,0.89024
+44.0,Tue,2026-04-21,19:45,West Brom,3–0,Watford,22805.0,The Hawthorns,Anthony Backhouse,Match Report,,26850,0.8493482309124767
+44.0,Tue,2026-04-21,19:45,Southampton,2–2,Bristol City,28446.0,St Mary's Stadium,Elliot Bell,Match Report,,32384,0.8783967391304348
+44.0,Tue,2026-04-21,19:45,Leicester City,2–2,Hull City,27834.0,King Power Stadium,Thomas Kirk,Match Report,,32259,0.8628289779596392
+44.0,Tue,2026-04-21,19:45,Norwich City,2–1,Derby County,25058.0,Carrow Road,Tom Reeves,Match Report,,27359,0.9158960488321941
+44.0,Tue,2026-04-21,19:45,Stoke City,1–3,Millwall,20961.0,bet365 Stadium,Joshua Smith,Match Report,,30089,0.6966333211472632
+44.0,Tue,2026-04-21,19:45,QPR,1–2,Swansea City,13835.0,MATRADE Loftus Road Stadium,Leigh Doughty,Match Report,,18439,0.7503118390368241
+44.0,Tue,2026-04-21,19:45,Coventry City,5–1,Portsmouth,31182.0,Coventry Building Society Arena,Andrew Kitchen,Match Report,,32609,0.9562390751019657
+44.0,Wed,2026-04-22,19:45,Middlesbrough,1–0,Sheffield Weds,25245.0,Riverside Stadium,David Webb,Match Report,,34742,0.7266421046571873
+44.0,Wed,2026-04-22,19:45,Sheffield United,1–3,Blackburn,25987.0,Bramall Lane,Farai Hallam,Match Report,,32050,0.8108268330733229
+44.0,Wed,2026-04-22,19:45,Charlton Athletic,1–2,Ipswich Town,19706.0,The Valley,Robert Madley,Match Report,,27111,0.7268636346870274
+44.0,Wed,2026-04-22,19:45,Birmingham City,2–1,Preston,23798.0,St Andrew's @ Knighthead Park,Ben Toner,Match Report,,29409,0.8092080655581625
+45.0,Fri,2026-04-24,20:00,Leicester City,1–1,Millwall,28729.0,King Power Stadium,Farai Hallam,Match Report,,32259,0.890573173377972
+45.0,Sat,2026-04-25,12:30,West Brom,0–0,Ipswich Town,25318.0,The Hawthorns,Matt Donohue,Match Report,,26850,0.9429422718808194
+45.0,Sat,2026-04-25,12:30,Middlesbrough,5–1,Watford,27482.0,Riverside Stadium,Adam Herczeg,Match Report,,34742,0.7910310287260377
+45.0,Sat,2026-04-25,12:30,Charlton Athletic,2–1,Hull City,20671.0,The Valley,Tom Nield,Match Report,,27111,0.7624580428608314
+45.0,Sat,2026-04-25,15:00,Oxford United,4–1,Sheffield Weds,12476.0,The Kassam Stadium,Robert Madley,Match Report,,12500,0.99808
+45.0,Sat,2026-04-25,15:00,Birmingham City,2–1,Bristol City,27210.0,St Andrew's @ Knighthead Park,Robert Jones,Match Report,,29409,0.9252269713353055
+45.0,Sat,2026-04-25,15:00,Sheffield United,2–3,Preston,27115.0,Bramall Lane,Andrew Kitchen,Match Report,,32050,0.846021840873635
+45.0,Sat,2026-04-25,15:00,Stoke City,1–3,Portsmouth,24894.0,bet365 Stadium,David Webb,Match Report,,30089,0.8273455415600386
+45.0,Sat,2026-04-25,15:00,Norwich City,1–1,Swansea City,26454.0,Carrow Road,Thomas Parsons,Match Report,,27359,0.9669213056032749
+45.0,Sat,2026-04-25,15:00,QPR,2–3,Derby County,17131.0,MATRADE Loftus Road Stadium,John Busby,Match Report,,18439,0.9290633982320082
+45.0,Sun,2026-04-26,12:00,Coventry City,3–1,Wrexham,31003.0,Coventry Building Society Arena,Samuel Allison,Match Report,,32609,0.950749793001932
+40.0,Tue,2026-04-28,19:45,Southampton,2–2,Ipswich Town,31180.0,St Mary's Stadium,Thomas Kirk,Match Report,,32384,0.9628211462450593
+46.0,Sat,2026-05-02,12:30,Swansea City,3–1,Charlton Athletic,19245.0,Swansea.com Stadium,Will Finnie,Match Report,,21088,0.9126043247344461
+46.0,Sat,2026-05-02,12:30,Ipswich Town,3–0,QPR,29636.0,Portman Road Stadium,Gavin Ward,Match Report,,30056,0.9860260846420016
+46.0,Sat,2026-05-02,12:30,Watford,0–4,Coventry City,19174.0,Vicarage Road Stadium,Ruebyn Ricardo,Match Report,,22200,0.8636936936936936
+46.0,Sat,2026-05-02,12:30,Sheffield Weds,2–1,West Brom,33750.0,Hillsborough Stadium,Lewis Smith,Match Report,,39732,0.8494412564180006
+46.0,Sat,2026-05-02,12:30,Blackburn,0–1,Leicester City,19436.0,Ewood Park,Leigh Doughty,Match Report,,31367,0.6196320974272325
+46.0,Sat,2026-05-02,12:30,Derby County,1–2,Sheffield United,32538.0,Pride Park Stadium,Tom Nield,Match Report,,32926,0.9882159995140618
+46.0,Sat,2026-05-02,12:30,Millwall,2–0,Oxford United,18043.0,The Den,Anthony Backhouse,Match Report,,20146,0.8956120321651941
+46.0,Sat,2026-05-02,12:30,Wrexham,2–2,Middlesbrough,10716.0,STōK Racecourse,Oliver Langford,Match Report,,12600,0.8504761904761905
+46.0,Sat,2026-05-02,12:30,Bristol City,2–0,Stoke City,24671.0,Ashton Gate Stadium,Ben Toner,Match Report,,26462,0.9323180409644017
+46.0,Sat,2026-05-02,12:30,Portsmouth,1–1,Birmingham City,20478.0,Fratton Park,John Brooks,Match Report,,20867,0.9813581252695643
+46.0,Sat,2026-05-02,12:30,Preston,1–3,Southampton,20085.0,Deepdale Stadium,Stephen Martin,Match Report,,23408,0.85803998632946
+46.0,Sat,2026-05-02,12:30,Hull City,2–1,Norwich City,24616.0,MKM Stadium,Joshua Smith,Match Report,,25586,0.9620886422262175
