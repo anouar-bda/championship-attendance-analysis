@@ -1,12 +1,12 @@
 # What Fills a Championship Stadium? — 2025/26 Season
 
-**Which clubs are leaving money in the stands — and why?**
+**Which clubs are leaving money in the stands — and why.**
 
 > **Season scope:** 2025/26 EFL Championship regular season only — 552 matches, with play-offs excluded.
 
 [**View the interactive 2025/26 Tableau report**](https://public.tableau.com/app/profile/anouar.lacheheb/viz/WhatFillsaChampionshipStadium/WhatFillsaChampionshipStadium)
 
-![2025/26 EFL Championship attendance dashboard overview](tableau_1_overview.png)
+![2025/26 EFL Championship attendance dashboard overview](images/tableau_1_overview.png)
 
 *Dashboard overview — 2025/26 EFL Championship season.*
 
@@ -43,6 +43,10 @@ The original plan was to model Premier League attendance. Before building anythi
 Premier League stadiums run essentially full. Season tickets lock demand in, and even the season's lowest attendance still filled the ground. There was almost no variation to explain, and therefore nothing to model.
 
 **So I moved to the league where attendance is a genuine business problem.** Championship fill rates range from 47% to 96%. That variance is the project.
+
+![Club stadium fill rates for the 2025/26 EFL Championship season](images/tableau_2_fill_rate.png)
+
+*Club-by-club stadium fill rates — 2025/26 EFL Championship.*
 
 This is documented rather than hidden, because knowing when data cannot answer a question is part of the work.
 
@@ -143,7 +147,7 @@ fill_rate ~ derby + away_ppg + slot + home_match_no + home_form + club
 
 **The jump from B to C is a finding in itself.** Club identity explains roughly 68 percentage points of additional variance. Whether a Championship stadium fills is overwhelmingly about *which club it is* — everything about the fixture explains a small fraction of the story.
 
-![Predicted versus actual stadium fill rates for the 2025/26 season](tableau_4_predicted_vs_actual.png)
+![Predicted versus actual stadium fill rates for the 2025/26 season](images/tableau_4_predicted_vs_actual.png)
 
 *Predicted versus actual fill rates — 2025/26 EFL Championship.*
 
@@ -181,7 +185,7 @@ Statistically real, but small: the full swing from five straight defeats to five
 
 **Implication:** a club cannot expect an attendance recovery from improved results. If demand has collapsed, the pitch will not fix it.
 
-![Factors that move Championship attendance in the 2025/26 season](tableau_3_what_moves.png)
+![Factors that move Championship attendance in the 2025/26 season](images/tableau_3_what_moves.png)
 
 *What measurably moved stadium fill rates during the 2025/26 season.*
 
@@ -205,7 +209,7 @@ Residuals from Model B (no club identity) measure how much each club over- or un
 
 **Two opposite problems.** Blackburn cannot fill the seats they have. Portsmouth, at 96.3% in a 20,867-seat ground, do not have enough.
 
-![Residual attendance gaps by club for the 2025/26 season](tableau_5_residual_gap.png)
+![Residual attendance gaps by club for the 2025/26 season](images/tableau_5_residual_gap.png)
 
 *Residual gap by club — actual fill rate compared with the model prediction for 2025/26.*
 
@@ -301,7 +305,7 @@ These clubs are turning demand away. Fill rates above 94% with positive residual
 **For all clubs — matchday pricing:**
 Opponent quality has **no measurable effect** on attendance. Tiered pricing based on the perceived stature of the visiting team has no empirical support in this data. **Derbies (+8.0pp) and kickoff slot (−6.8pp for midweek) do.** Pricing should reflect what actually moves demand.
 
-![Conclusion from the 2025/26 Championship attendance analysis](tableau_6_conclusion.png)
+![Conclusion from the 2025/26 Championship attendance analysis](images/tableau_6_conclusion.png)
 
 *Conclusion — 2025/26 EFL Championship attendance analysis.*
 
@@ -348,12 +352,13 @@ championship-attendance/
 │   ├── build_database.py
 │   └── regression.py
 ├── championship.db
-├── tableau_1_overview.png
-├── tableau_2_fill_rate.png
-├── tableau_3_what_moves.png
-├── tableau_4_predicted_vs_actual.png
-├── tableau_5_residual_gap.png
-├── tableau_6_conclusion.png
+├── images/
+│   ├── tableau_1_overview.png
+│   ├── tableau_2_fill_rate.png
+│   ├── tableau_3_what_moves.png
+│   ├── tableau_4_predicted_vs_actual.png
+│   ├── tableau_5_residual_gap.png
+│   └── tableau_6_conclusion.png
 └── README.md
 ```
 
@@ -370,3 +375,4 @@ MSc International Business with Data Analytics — Manchester, UK
 ---
 
 *Built for football. Driven by data.*
+
