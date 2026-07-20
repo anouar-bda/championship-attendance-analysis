@@ -4,7 +4,7 @@
 
 > **Season scope:** 2025/26 EFL Championship regular season only — 552 matches, with play-offs excluded.
 
-[**View the interactive 2025/26 Tableau report**](https://public.tableau.com/app/profile/anouar.lacheheb/viz/WhatFillsaChampionshipStadium/WhatFillsaChampionshipStadium)
+[**View the interactive 2025/26 Tableau report**]([https://public.tableau.com/app/profile/anouar.lacheheb/viz/WhatFillsaChampionshipStadium/WhatFillsaChampionshipStadium](https://public.tableau.com/app/profile/anouar.lacheheb/viz/AttendenceAnlysisEFL2526/AttendaceAnalysisEFL2526))
 
 ![2025/26 EFL Championship attendance dashboard overview](images/tableau_1_overview.png)
 
@@ -309,7 +309,7 @@ Opponent quality has **no measurable effect** on attendance. Tiered pricing base
 
 *Conclusion — 2025/26 EFL Championship attendance analysis.*
 
-[**Open the full interactive Tableau report**](https://public.tableau.com/app/profile/anouar.lacheheb/viz/WhatFillsaChampionshipStadium/WhatFillsaChampionshipStadium)
+[**Open the full interactive Tableau report**]([https://public.tableau.com/app/profile/anouar.lacheheb/viz/WhatFillsaChampionshipStadium/WhatFillsaChampionshipStadium](https://public.tableau.com/app/profile/anouar.lacheheb/viz/AttendenceAnlysisEFL2526/AttendaceAnalysisEFL2526))
 
 ---
 
