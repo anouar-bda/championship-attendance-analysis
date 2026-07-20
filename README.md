@@ -4,11 +4,6 @@
 
 > **Season scope:** 2025/26 EFL Championship regular season only — 552 matches, with play-offs excluded.
 
-[**View the interactive 2025/26 Tableau report**]([https://public.tableau.com/app/profile/anouar.lacheheb/viz/WhatFillsaChampionshipStadium/WhatFillsaChampionshipStadium](https://public.tableau.com/app/profile/anouar.lacheheb/viz/AttendenceAnlysisEFL2526/AttendaceAnalysisEFL2526))
-
-
-*Dashboard overview — 2025/26 EFL Championship season.*
-
 ---
 
 ## Project Overview
