@@ -6,7 +6,6 @@
 
 [**View the interactive 2025/26 Tableau report**]([https://public.tableau.com/app/profile/anouar.lacheheb/viz/WhatFillsaChampionshipStadium/WhatFillsaChampionshipStadium](https://public.tableau.com/app/profile/anouar.lacheheb/viz/AttendenceAnlysisEFL2526/AttendaceAnalysisEFL2526))
 
-![2025/26 EFL Championship attendance dashboard overview](images/tableau_1_overview.png)
 
 *Dashboard overview — 2025/26 EFL Championship season.*
 
