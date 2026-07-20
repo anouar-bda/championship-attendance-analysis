@@ -5,7 +5,9 @@
 > **Season scope:** 2025/26 EFL Championship regular season only — 552 matches, with play-offs excluded.
 
 ---
+🔗 [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/AttendenceAnlysisEFL2526/AttendaceAnalysisEFL2526?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+---
 ## Project Overview
 
 Championship clubs depend on matchday revenue in a way Premier League clubs do not. With a fraction of the top flight's broadcast income, an empty seat is money that never comes back.
